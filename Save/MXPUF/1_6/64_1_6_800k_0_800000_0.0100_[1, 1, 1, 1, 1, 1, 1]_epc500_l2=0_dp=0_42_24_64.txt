@@ -1,0 +1,26 @@
+1_up 's best acc = 75.98%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=12, model_seed=98
+75.98%, 1 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,12,98 
+1_down 's best acc = 91.75%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=24, model_seed=64
+91.75%, 1 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,24,64 
+No.1 : Test Accuracy: 91.53%
+2_up 's best acc = 93.09%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=12, model_seed=98
+93.09%, 2 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,12,98 
+2_down 's best acc = 97.35%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=24, model_seed=64
+97.35%, 2 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,24,64 
+No.2 : Test Accuracy: 97.23%
+3_up 's best acc = 97.36%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=12, model_seed=98
+97.36%, 3 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,12,98 
+3_down 's best acc = 98.04%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=24, model_seed=64
+98.04%, 3 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,24,64 
+No.3 : Test Accuracy: 97.58%
+4_up 's best acc = 97.67%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=12, model_seed=98
+97.67%, 4 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,12,98 
+4_down 's best acc = 98.30%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=24, model_seed=64
+98.30%, 4 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,24,64 
+No.4 : Test Accuracy: 97.80%
+5_up 's best acc = 97.69%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=12, model_seed=98
+97.69%, 5 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,12,98 
+5_down 's best acc = 98.04%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=24, model_seed=64
+98.04%, 5 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,24,64 
+No.5 : Test Accuracy: 97.78%
+Runtime: 74.6512 min

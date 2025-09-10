@@ -1,0 +1,31 @@
+1_up 's best acc = 64.34%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=16, model_seed=16
+1_up 's best acc = 64.86%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=33, model_seed=64
+1_up 's best acc = 62.56%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=78, model_seed=18
+1_up 's best acc = 62.99%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=32, model_seed=82
+1_up 's best acc = 62.68%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=74, model_seed=3
+1_up 's best acc = 65.02%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=66
+65.02%, 1 up,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,66 
+1_down 's best acc = 78.78%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=79
+78.78%, 1 down,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,79 
+No.1 : Test Accuracy: 77.85%
+2_up 's best acc = 85.77%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=66
+85.77%, 2 up,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,66 
+2_down 's best acc = 91.30%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=79
+91.30%, 2 down,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,79 
+No.2 : Test Accuracy: 90.95%
+3_up 's best acc = 91.06%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=66
+91.06%, 3 up,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,66 
+3_down 's best acc = 94.75%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=79
+94.75%, 3 down,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,79 
+No.3 : Test Accuracy: 95.05%
+4_up 's best acc = 94.67%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=66
+94.67%, 4 up,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,66 
+4_down 's best acc = 95.16%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=79
+95.16%, 4 down,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,79 
+No.4 : Test Accuracy: 94.65%
+5_up 's best acc = 94.73%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=66
+94.73%, 5 up,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,66 
+5_down 's best acc = 95.48%, lr=0.0080, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=2, model_seed=79
+95.48%, 5 down,0.008,[1, 1, 1, 1, 1, 1, 1],0,0,2,79 
+No.5 : Test Accuracy: 95.45%
+Runtime: 17.4204 min

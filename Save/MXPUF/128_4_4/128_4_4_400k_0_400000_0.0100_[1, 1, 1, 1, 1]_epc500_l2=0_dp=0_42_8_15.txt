@@ -1,0 +1,29 @@
+1_up 's best acc = 50.90%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=47, model_seed=83
+1_up 's best acc = 50.94%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=74, model_seed=16
+1_up 's best acc = 83.53%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=20, model_seed=70
+83.53%, 1 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,20,70 
+1_down 's best acc = 93.77%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=8, model_seed=15
+93.77%, 1 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,8,15 
+No.1 : Test Accuracy: 93.27%
+2_up 's best acc = 93.55%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=20, model_seed=20
+93.55%, 2 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,20,20 
+2_down 's best acc = 96.04%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=8, model_seed=15
+96.04%, 2 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,8,15 
+No.2 : Test Accuracy: 95.65%
+3_up 's best acc = 95.19%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=20, model_seed=20
+95.19%, 3 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,20,20 
+3_down 's best acc = 96.67%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=8, model_seed=15
+96.67%, 3 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,8,15 
+No.3 : Test Accuracy: 96.27%
+4_up 's best acc = 51.35%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=20, model_seed=20
+4_up 's best acc = 95.14%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=21, model_seed=19
+95.14%, 4 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,21,19 
+4_down 's best acc = 96.65%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=8, model_seed=15
+96.65%, 4 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,8,15 
+No.4 : Test Accuracy: 96.19%
+5_up 's best acc = 95.62%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=21, model_seed=21
+95.62%, 5 up,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,21,21 
+5_down 's best acc = 96.88%, lr=0.0100, TT_rank=[1, 1, 1, 1, 1, 1, 1], dropout=0, l2=0, load_seed=8, model_seed=15
+96.88%, 5 down,0.01,[1, 1, 1, 1, 1, 1, 1],0,0,8,15 
+No.5 : Test Accuracy: 96.34%
+Runtime: 78.8083 min

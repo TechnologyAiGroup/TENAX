@@ -1,0 +1,3881 @@
+
+
+--- time for learning : 189.36921739578247 seconds ---
+step 0, training accuracy 0.49925
+test accuracy 0.499637
+step 1, training accuracy 0.48636
+test accuracy 0.499187
+step 2, training accuracy 0.49707
+test accuracy 0.500287
+step 3, training accuracy 0.50948
+test accuracy 0.50074
+step 4, training accuracy 0.55106
+test accuracy 0.49989
+step 5, training accuracy 0.57637
+test accuracy 0.499723
+step 6, training accuracy 0.58674
+test accuracy 0.500593
+step 7, training accuracy 0.60437
+test accuracy 0.49978
+step 8, training accuracy 0.62188
+test accuracy 0.500503
+step 9, training accuracy 0.63452
+test accuracy 0.50115
+step 10, training accuracy 0.64062
+test accuracy 0.49955
+step 11, training accuracy 0.64572
+test accuracy 0.499687
+step 12, training accuracy 0.64732
+test accuracy 0.499677
+step 13, training accuracy 0.64791
+test accuracy 0.500153
+step 14, training accuracy 0.65035
+test accuracy 0.50112
+step 15, training accuracy 0.64418
+test accuracy 0.500387
+step 16, training accuracy 0.64262
+test accuracy 0.50092
+step 17, training accuracy 0.64225
+test accuracy 0.500533
+step 18, training accuracy 0.63563
+test accuracy 0.50143
+step 19, training accuracy 0.63952
+test accuracy 0.500067
+
+
+--- time for learning : 770.4044008255005 seconds ---
+step 20, training accuracy 0.63926
+test accuracy 0.500563
+step 21, training accuracy 0.63665
+test accuracy 0.499983
+step 22, training accuracy 0.64302
+test accuracy 0.499413
+step 23, training accuracy 0.64097
+test accuracy 0.499287
+step 24, training accuracy 0.64018
+test accuracy 0.500437
+step 25, training accuracy 0.64122
+test accuracy 0.499137
+step 26, training accuracy 0.64086
+test accuracy 0.500203
+step 27, training accuracy 0.63765
+test accuracy 0.50049
+step 28, training accuracy 0.64463
+test accuracy 0.500107
+step 29, training accuracy 0.63947
+test accuracy 0.499793
+step 30, training accuracy 0.64101
+test accuracy 0.499173
+step 31, training accuracy 0.64279
+test accuracy 0.499563
+step 32, training accuracy 0.64003
+test accuracy 0.499563
+step 33, training accuracy 0.64177
+test accuracy 0.499333
+step 34, training accuracy 0.64379
+test accuracy 0.50135
+step 35, training accuracy 0.63983
+test accuracy 0.4997
+step 36, training accuracy 0.64129
+test accuracy 0.500297
+step 37, training accuracy 0.64193
+test accuracy 0.499457
+step 38, training accuracy 0.63793
+test accuracy 0.500637
+step 39, training accuracy 0.63823
+test accuracy 0.501047
+
+
+--- time for learning : 1285.8290989398956 seconds ---
+step 40, training accuracy 0.63793
+test accuracy 0.50048
+step 41, training accuracy 0.6404
+test accuracy 0.499823
+step 42, training accuracy 0.63816
+test accuracy 0.50053
+step 43, training accuracy 0.63881
+test accuracy 0.50162
+step 44, training accuracy 0.63722
+test accuracy 0.49981
+step 45, training accuracy 0.63853
+test accuracy 0.500353
+step 46, training accuracy 0.63591
+test accuracy 0.50082
+step 47, training accuracy 0.63641
+test accuracy 0.500433
+step 48, training accuracy 0.63803
+test accuracy 0.499643
+step 49, training accuracy 0.63499
+test accuracy 0.50029
+step 50, training accuracy 0.63295
+test accuracy 0.500633
+step 51, training accuracy 0.6364
+test accuracy 0.50154
+step 52, training accuracy 0.63807
+test accuracy 0.50012
+step 53, training accuracy 0.634
+test accuracy 0.50011
+step 54, training accuracy 0.63667
+test accuracy 0.50141
+step 55, training accuracy 0.63851
+test accuracy 0.499707
+step 56, training accuracy 0.63557
+test accuracy 0.50012
+step 57, training accuracy 0.63637
+test accuracy 0.501343
+step 58, training accuracy 0.63617
+test accuracy 0.49963
+step 59, training accuracy 0.63682
+test accuracy 0.501793
+
+
+--- time for learning : 1801.2760782241821 seconds ---
+step 60, training accuracy 0.63416
+test accuracy 0.500247
+step 61, training accuracy 0.63874
+test accuracy 0.49953
+step 62, training accuracy 0.63377
+test accuracy 0.500423
+step 63, training accuracy 0.63544
+test accuracy 0.50038
+step 64, training accuracy 0.637
+test accuracy 0.499413
+step 65, training accuracy 0.63393
+test accuracy 0.500183
+step 66, training accuracy 0.63443
+test accuracy 0.500777
+step 67, training accuracy 0.63745
+test accuracy 0.500243
+step 68, training accuracy 0.63545
+test accuracy 0.50152
+step 69, training accuracy 0.63232
+test accuracy 0.501737
+step 70, training accuracy 0.63523
+test accuracy 0.500053
+step 71, training accuracy 0.63542
+test accuracy 0.501137
+step 72, training accuracy 0.63531
+test accuracy 0.50033
+step 73, training accuracy 0.62933
+test accuracy 0.501203
+step 74, training accuracy 0.63378
+test accuracy 0.50018
+step 75, training accuracy 0.6342
+test accuracy 0.50131
+step 76, training accuracy 0.63427
+test accuracy 0.500177
+step 77, training accuracy 0.63108
+test accuracy 0.500807
+step 78, training accuracy 0.63175
+test accuracy 0.500657
+step 79, training accuracy 0.63119
+test accuracy 0.50055
+
+
+--- time for learning : 2317.346484184265 seconds ---
+step 80, training accuracy 0.62907
+test accuracy 0.502347
+step 81, training accuracy 0.6303
+test accuracy 0.50125
+step 82, training accuracy 0.63318
+test accuracy 0.501433
+step 83, training accuracy 0.63327
+test accuracy 0.500187
+step 84, training accuracy 0.62741
+test accuracy 0.49918
+step 85, training accuracy 0.62877
+test accuracy 0.50046
+step 86, training accuracy 0.62916
+test accuracy 0.498977
+step 87, training accuracy 0.62964
+test accuracy 0.501187
+step 88, training accuracy 0.63002
+test accuracy 0.500243
+step 89, training accuracy 0.62746
+test accuracy 0.500607
+step 90, training accuracy 0.63235
+test accuracy 0.500923
+step 91, training accuracy 0.63151
+test accuracy 0.502323
+step 92, training accuracy 0.63056
+test accuracy 0.500173
+step 93, training accuracy 0.62861
+test accuracy 0.501197
+step 94, training accuracy 0.62989
+test accuracy 0.500507
+step 95, training accuracy 0.6273
+test accuracy 0.499597
+step 96, training accuracy 0.62575
+test accuracy 0.500603
+step 97, training accuracy 0.62782
+test accuracy 0.49945
+step 98, training accuracy 0.62728
+test accuracy 0.50089
+step 99, training accuracy 0.62977
+test accuracy 0.50108
+
+
+--- time for learning : 2832.22944188118 seconds ---
+step 100, training accuracy 0.62837
+test accuracy 0.500883
+step 101, training accuracy 0.62406
+test accuracy 0.499523
+step 102, training accuracy 0.62844
+test accuracy 0.499073
+step 103, training accuracy 0.62513
+test accuracy 0.501217
+step 104, training accuracy 0.62369
+test accuracy 0.50119
+step 105, training accuracy 0.62311
+test accuracy 0.499933
+step 106, training accuracy 0.62485
+test accuracy 0.500943
+step 107, training accuracy 0.62217
+test accuracy 0.50115
+step 108, training accuracy 0.62459
+test accuracy 0.501137
+step 109, training accuracy 0.62669
+test accuracy 0.501443
+step 110, training accuracy 0.62314
+test accuracy 0.4997
+step 111, training accuracy 0.61979
+test accuracy 0.501663
+step 112, training accuracy 0.6286
+test accuracy 0.500697
+step 113, training accuracy 0.61967
+test accuracy 0.499143
+step 114, training accuracy 0.62325
+test accuracy 0.500743
+step 115, training accuracy 0.62441
+test accuracy 0.500433
+step 116, training accuracy 0.61609
+test accuracy 0.500303
+step 117, training accuracy 0.62023
+test accuracy 0.500517
+step 118, training accuracy 0.62035
+test accuracy 0.499627
+step 119, training accuracy 0.61805
+test accuracy 0.500627
+
+
+--- time for learning : 3346.481035232544 seconds ---
+step 120, training accuracy 0.62306
+test accuracy 0.500033
+step 121, training accuracy 0.61957
+test accuracy 0.50094
+step 122, training accuracy 0.61767
+test accuracy 0.500763
+step 123, training accuracy 0.62015
+test accuracy 0.501013
+step 124, training accuracy 0.61853
+test accuracy 0.4995
+step 125, training accuracy 0.61747
+test accuracy 0.500543
+step 126, training accuracy 0.61786
+test accuracy 0.499307
+step 127, training accuracy 0.62261
+test accuracy 0.499053
+step 128, training accuracy 0.61176
+test accuracy 0.500333
+step 129, training accuracy 0.61588
+test accuracy 0.500473
+step 130, training accuracy 0.61307
+test accuracy 0.499613
+step 131, training accuracy 0.61429
+test accuracy 0.498297
+step 132, training accuracy 0.61227
+test accuracy 0.500073
+step 133, training accuracy 0.61155
+test accuracy 0.499283
+step 134, training accuracy 0.61994
+test accuracy 0.500043
+step 135, training accuracy 0.61295
+test accuracy 0.50042
+step 136, training accuracy 0.61514
+test accuracy 0.50109
+step 137, training accuracy 0.61175
+test accuracy 0.49938
+step 138, training accuracy 0.61204
+test accuracy 0.500303
+step 139, training accuracy 0.60891
+test accuracy 0.49941
+
+
+--- time for learning : 3860.883477449417 seconds ---
+step 140, training accuracy 0.6118
+test accuracy 0.499943
+step 141, training accuracy 0.61105
+test accuracy 0.500367
+step 142, training accuracy 0.60973
+test accuracy 0.49955
+step 143, training accuracy 0.61089
+test accuracy 0.49922
+step 144, training accuracy 0.61162
+test accuracy 0.501213
+step 145, training accuracy 0.60638
+test accuracy 0.50046
+step 146, training accuracy 0.60694
+test accuracy 0.50068
+step 147, training accuracy 0.60813
+test accuracy 0.499143
+step 148, training accuracy 0.60533
+test accuracy 0.499833
+step 149, training accuracy 0.60804
+test accuracy 0.500493
+step 150, training accuracy 0.60276
+test accuracy 0.499873
+step 151, training accuracy 0.60475
+test accuracy 0.50069
+step 152, training accuracy 0.60341
+test accuracy 0.500247
+step 153, training accuracy 0.60682
+test accuracy 0.500463
+step 154, training accuracy 0.60195
+test accuracy 0.50004
+step 155, training accuracy 0.60222
+test accuracy 0.501053
+step 156, training accuracy 0.60512
+test accuracy 0.49924
+step 157, training accuracy 0.59995
+test accuracy 0.50086
+step 158, training accuracy 0.60268
+test accuracy 0.499707
+step 159, training accuracy 0.59882
+test accuracy 0.499487
+
+
+--- time for learning : 4374.5894911289215 seconds ---
+step 160, training accuracy 0.60274
+test accuracy 0.499943
+step 161, training accuracy 0.6051
+test accuracy 0.499407
+step 162, training accuracy 0.59879
+test accuracy 0.499077
+step 163, training accuracy 0.60287
+test accuracy 0.49903
+step 164, training accuracy 0.59823
+test accuracy 0.500897
+step 165, training accuracy 0.60271
+test accuracy 0.499783
+step 166, training accuracy 0.59979
+test accuracy 0.499703
+step 167, training accuracy 0.59614
+test accuracy 0.4995
+step 168, training accuracy 0.59798
+test accuracy 0.498893
+step 169, training accuracy 0.59496
+test accuracy 0.500137
+step 170, training accuracy 0.59785
+test accuracy 0.5007
+step 171, training accuracy 0.59614
+test accuracy 0.49939
+step 172, training accuracy 0.59529
+test accuracy 0.49951
+step 173, training accuracy 0.59356
+test accuracy 0.499757
+step 174, training accuracy 0.59254
+test accuracy 0.501263
+step 175, training accuracy 0.5963
+test accuracy 0.499327
+step 176, training accuracy 0.59619
+test accuracy 0.500623
+step 177, training accuracy 0.58989
+test accuracy 0.499
+step 178, training accuracy 0.59371
+test accuracy 0.498997
+step 179, training accuracy 0.59439
+test accuracy 0.50015
+
+
+--- time for learning : 4888.735493659973 seconds ---
+step 180, training accuracy 0.58779
+test accuracy 0.501237
+step 181, training accuracy 0.59109
+test accuracy 0.499027
+step 182, training accuracy 0.58895
+test accuracy 0.500427
+step 183, training accuracy 0.59139
+test accuracy 0.500867
+step 184, training accuracy 0.5851
+test accuracy 0.499513
+step 185, training accuracy 0.58881
+test accuracy 0.50077
+step 186, training accuracy 0.59051
+test accuracy 0.500003
+step 187, training accuracy 0.58434
+test accuracy 0.49962
+step 188, training accuracy 0.59158
+test accuracy 0.499107
+step 189, training accuracy 0.58633
+test accuracy 0.498703
+step 190, training accuracy 0.5853
+test accuracy 0.499983
+step 191, training accuracy 0.58694
+test accuracy 0.499453
+step 192, training accuracy 0.58286
+test accuracy 0.49954
+step 193, training accuracy 0.58442
+test accuracy 0.499333
+step 194, training accuracy 0.58033
+test accuracy 0.501527
+step 195, training accuracy 0.5823
+test accuracy 0.5011
+step 196, training accuracy 0.57869
+test accuracy 0.501257
+step 197, training accuracy 0.57894
+test accuracy 0.50065
+step 198, training accuracy 0.57936
+test accuracy 0.500197
+step 199, training accuracy 0.57852
+test accuracy 0.50038
+
+
+--- time for learning : 5401.5236120224 seconds ---
+step 200, training accuracy 0.57584
+test accuracy 0.50135
+step 201, training accuracy 0.57884
+test accuracy 0.500927
+step 202, training accuracy 0.57637
+test accuracy 0.500383
+step 203, training accuracy 0.57427
+test accuracy 0.50084
+step 204, training accuracy 0.57684
+test accuracy 0.50094
+step 205, training accuracy 0.57368
+test accuracy 0.49969
+step 206, training accuracy 0.57354
+test accuracy 0.499973
+step 207, training accuracy 0.5747
+test accuracy 0.49991
+step 208, training accuracy 0.57265
+test accuracy 0.49979
+step 209, training accuracy 0.56882
+test accuracy 0.499937
+step 210, training accuracy 0.57343
+test accuracy 0.500953
+step 211, training accuracy 0.56842
+test accuracy 0.500637
+step 212, training accuracy 0.57154
+test accuracy 0.50022
+step 213, training accuracy 0.57182
+test accuracy 0.498657
+step 214, training accuracy 0.57293
+test accuracy 0.500487
+step 215, training accuracy 0.57109
+test accuracy 0.501183
+step 216, training accuracy 0.57117
+test accuracy 0.49953
+step 217, training accuracy 0.56828
+test accuracy 0.498567
+step 218, training accuracy 0.56633
+test accuracy 0.501157
+step 219, training accuracy 0.56949
+test accuracy 0.499427
+
+
+--- time for learning : 5914.166981458664 seconds ---
+step 220, training accuracy 0.55997
+test accuracy 0.502033
+step 221, training accuracy 0.55875
+test accuracy 0.498937
+step 222, training accuracy 0.53614
+test accuracy 0.500577
+step 223, training accuracy 0.54757
+test accuracy 0.50069
+step 224, training accuracy 0.55269
+test accuracy 0.499357
+step 225, training accuracy 0.55608
+test accuracy 0.500433
+step 226, training accuracy 0.55599
+test accuracy 0.499313
+step 227, training accuracy 0.55921
+test accuracy 0.49944
+step 228, training accuracy 0.5516
+test accuracy 0.49802
+step 229, training accuracy 0.55318
+test accuracy 0.49887
+step 230, training accuracy 0.55105
+test accuracy 0.499403
+step 231, training accuracy 0.55395
+test accuracy 0.49836
+step 232, training accuracy 0.55445
+test accuracy 0.50058
+step 233, training accuracy 0.54996
+test accuracy 0.500617
+step 234, training accuracy 0.55436
+test accuracy 0.502023
+step 235, training accuracy 0.55071
+test accuracy 0.498387
+step 236, training accuracy 0.55341
+test accuracy 0.49993
+step 237, training accuracy 0.55068
+test accuracy 0.5003
+step 238, training accuracy 0.53345
+test accuracy 0.49859
+step 239, training accuracy 0.50059
+test accuracy 0.501583
+
+
+--- time for learning : 6426.755613565445 seconds ---
+step 240, training accuracy 0.49886
+test accuracy 0.499377
+step 241, training accuracy 0.49959
+test accuracy 0.50044
+step 242, training accuracy 0.49901
+test accuracy 0.501047
+step 243, training accuracy 0.50256
+test accuracy 0.50088
+step 244, training accuracy 0.49901
+test accuracy 0.499377
+step 245, training accuracy 0.50246
+test accuracy 0.500507
+step 246, training accuracy 0.49961
+test accuracy 0.49969
+step 247, training accuracy 0.50354
+test accuracy 0.499367
+step 248, training accuracy 0.50488
+test accuracy 0.4997
+step 249, training accuracy 0.50578
+test accuracy 0.503207
+step 250, training accuracy 0.50211
+test accuracy 0.500767
+step 251, training accuracy 0.49977
+test accuracy 0.50169
+step 252, training accuracy 0.50221
+test accuracy 0.50104
+step 253, training accuracy 0.4997
+test accuracy 0.50122
+step 254, training accuracy 0.49899
+test accuracy 0.500753
+step 255, training accuracy 0.50087
+test accuracy 0.501407
+step 256, training accuracy 0.49707
+test accuracy 0.500357
+step 257, training accuracy 0.49781
+test accuracy 0.49986
+step 258, training accuracy 0.50054
+test accuracy 0.499457
+step 259, training accuracy 0.5003
+test accuracy 0.499477
+
+
+--- time for learning : 6939.339503765106 seconds ---
+step 260, training accuracy 0.50061
+test accuracy 0.499247
+step 261, training accuracy 0.49992
+test accuracy 0.49942
+step 262, training accuracy 0.50003
+test accuracy 0.49932
+step 263, training accuracy 0.50026
+test accuracy 0.499417
+step 264, training accuracy 0.50039
+test accuracy 0.499753
+step 265, training accuracy 0.50062
+test accuracy 0.499697
+step 266, training accuracy 0.50083
+test accuracy 0.49986
+step 267, training accuracy 0.50102
+test accuracy 0.49967
+step 268, training accuracy 0.50101
+test accuracy 0.499743
+step 269, training accuracy 0.50105
+test accuracy 0.499617
+step 270, training accuracy 0.50106
+test accuracy 0.499717
+step 271, training accuracy 0.50112
+test accuracy 0.499543
+step 272, training accuracy 0.50116
+test accuracy 0.499603
+step 273, training accuracy 0.50112
+test accuracy 0.499547
+step 274, training accuracy 0.50087
+test accuracy 0.499483
+step 275, training accuracy 0.50081
+test accuracy 0.499253
+step 276, training accuracy 0.5007
+test accuracy 0.499117
+step 277, training accuracy 0.50035
+test accuracy 0.49909
+step 278, training accuracy 0.5001
+test accuracy 0.49907
+step 279, training accuracy 0.4998
+test accuracy 0.499183
+
+
+--- time for learning : 7452.088627099991 seconds ---
+step 280, training accuracy 0.50005
+test accuracy 0.499237
+step 281, training accuracy 0.49976
+test accuracy 0.49934
+step 282, training accuracy 0.49984
+test accuracy 0.499297
+step 283, training accuracy 0.49976
+test accuracy 0.499337
+step 284, training accuracy 0.49991
+test accuracy 0.499427
+step 285, training accuracy 0.49979
+test accuracy 0.499543
+step 286, training accuracy 0.4999
+test accuracy 0.49965
+step 287, training accuracy 0.49987
+test accuracy 0.499673
+step 288, training accuracy 0.49985
+test accuracy 0.499533
+step 289, training accuracy 0.49979
+test accuracy 0.499573
+step 290, training accuracy 0.49963
+test accuracy 0.499647
+step 291, training accuracy 0.49982
+test accuracy 0.499453
+step 292, training accuracy 0.49975
+test accuracy 0.499483
+step 293, training accuracy 0.49968
+test accuracy 0.499637
+step 294, training accuracy 0.49979
+test accuracy 0.49959
+step 295, training accuracy 0.50023
+test accuracy 0.49957
+step 296, training accuracy 0.50034
+test accuracy 0.499627
+step 297, training accuracy 0.50038
+test accuracy 0.499543
+step 298, training accuracy 0.50034
+test accuracy 0.499627
+step 299, training accuracy 0.50048
+test accuracy 0.49973
+
+
+--- time for learning : 7965.740605831146 seconds ---
+step 300, training accuracy 0.50074
+test accuracy 0.499743
+step 301, training accuracy 0.50081
+test accuracy 0.499803
+step 302, training accuracy 0.50086
+test accuracy 0.499937
+step 303, training accuracy 0.501
+test accuracy 0.499833
+step 304, training accuracy 0.50094
+test accuracy 0.50002
+step 305, training accuracy 0.50096
+test accuracy 0.499957
+step 306, training accuracy 0.50084
+test accuracy 0.500167
+step 307, training accuracy 0.50062
+test accuracy 0.50022
+step 308, training accuracy 0.50076
+test accuracy 0.500183
+step 309, training accuracy 0.5008
+test accuracy 0.50019
+step 310, training accuracy 0.50112
+test accuracy 0.500173
+step 311, training accuracy 0.50152
+test accuracy 0.500303
+step 312, training accuracy 0.50145
+test accuracy 0.500283
+step 313, training accuracy 0.50157
+test accuracy 0.50018
+step 314, training accuracy 0.50183
+test accuracy 0.500273
+step 315, training accuracy 0.5021
+test accuracy 0.50028
+step 316, training accuracy 0.50221
+test accuracy 0.500187
+step 317, training accuracy 0.50213
+test accuracy 0.500223
+step 318, training accuracy 0.50253
+test accuracy 0.500277
+step 319, training accuracy 0.50239
+test accuracy 0.50025
+
+
+--- time for learning : 8479.925164461136 seconds ---
+step 320, training accuracy 0.50246
+test accuracy 0.49996
+step 321, training accuracy 0.50246
+test accuracy 0.500097
+step 322, training accuracy 0.50268
+test accuracy 0.49997
+step 323, training accuracy 0.50306
+test accuracy 0.499843
+step 324, training accuracy 0.50268
+test accuracy 0.499893
+step 325, training accuracy 0.50285
+test accuracy 0.49961
+step 326, training accuracy 0.50256
+test accuracy 0.499613
+step 327, training accuracy 0.50265
+test accuracy 0.49977
+step 328, training accuracy 0.50315
+test accuracy 0.499657
+step 329, training accuracy 0.50347
+test accuracy 0.499927
+step 330, training accuracy 0.5035
+test accuracy 0.499997
+step 331, training accuracy 0.50345
+test accuracy 0.500127
+step 332, training accuracy 0.50355
+test accuracy 0.500023
+step 333, training accuracy 0.50391
+test accuracy 0.499833
+step 334, training accuracy 0.5041
+test accuracy 0.499643
+step 335, training accuracy 0.50416
+test accuracy 0.499677
+step 336, training accuracy 0.50437
+test accuracy 0.49966
+step 337, training accuracy 0.50452
+test accuracy 0.499633
+step 338, training accuracy 0.50462
+test accuracy 0.499507
+step 339, training accuracy 0.50465
+test accuracy 0.499477
+
+
+--- time for learning : 8993.909257888794 seconds ---
+step 340, training accuracy 0.50482
+test accuracy 0.499257
+step 341, training accuracy 0.50461
+test accuracy 0.499417
+step 342, training accuracy 0.5046
+test accuracy 0.499493
+step 343, training accuracy 0.50481
+test accuracy 0.499233
+step 344, training accuracy 0.50497
+test accuracy 0.499103
+step 345, training accuracy 0.50528
+test accuracy 0.499137
+step 346, training accuracy 0.50509
+test accuracy 0.49927
+step 347, training accuracy 0.5054
+test accuracy 0.499367
+step 348, training accuracy 0.50507
+test accuracy 0.4992
+step 349, training accuracy 0.50494
+test accuracy 0.499113
+step 350, training accuracy 0.5052
+test accuracy 0.499063
+step 351, training accuracy 0.5052
+test accuracy 0.498887
+step 352, training accuracy 0.50548
+test accuracy 0.499047
+step 353, training accuracy 0.50568
+test accuracy 0.498943
+step 354, training accuracy 0.50575
+test accuracy 0.49895
+step 355, training accuracy 0.50625
+test accuracy 0.49906
+step 356, training accuracy 0.50579
+test accuracy 0.499227
+step 357, training accuracy 0.50553
+test accuracy 0.499213
+step 358, training accuracy 0.5059
+test accuracy 0.49917
+step 359, training accuracy 0.50565
+test accuracy 0.499527
+
+
+--- time for learning : 9507.132855653763 seconds ---
+step 360, training accuracy 0.50547
+test accuracy 0.499903
+step 361, training accuracy 0.50536
+test accuracy 0.49989
+step 362, training accuracy 0.50507
+test accuracy 0.500003
+step 363, training accuracy 0.50481
+test accuracy 0.49987
+step 364, training accuracy 0.50476
+test accuracy 0.499917
+step 365, training accuracy 0.50459
+test accuracy 0.50001
+step 366, training accuracy 0.50439
+test accuracy 0.499933
+step 367, training accuracy 0.50448
+test accuracy 0.500007
+step 368, training accuracy 0.50467
+test accuracy 0.500087
+step 369, training accuracy 0.50447
+test accuracy 0.500117
+step 370, training accuracy 0.5043
+test accuracy 0.500227
+step 371, training accuracy 0.5045
+test accuracy 0.500377
+step 372, training accuracy 0.50485
+test accuracy 0.500413
+step 373, training accuracy 0.50516
+test accuracy 0.500377
+step 374, training accuracy 0.50516
+test accuracy 0.500497
+step 375, training accuracy 0.50524
+test accuracy 0.500363
+step 376, training accuracy 0.50532
+test accuracy 0.500663
+step 377, training accuracy 0.50535
+test accuracy 0.5008
+step 378, training accuracy 0.50554
+test accuracy 0.500717
+step 379, training accuracy 0.50588
+test accuracy 0.500797
+
+
+--- time for learning : 10017.621322870255 seconds ---
+step 380, training accuracy 0.50569
+test accuracy 0.500693
+step 381, training accuracy 0.50578
+test accuracy 0.500717
+step 382, training accuracy 0.50578
+test accuracy 0.500757
+step 383, training accuracy 0.5057
+test accuracy 0.500597
+step 384, training accuracy 0.50578
+test accuracy 0.50047
+step 385, training accuracy 0.50588
+test accuracy 0.500603
+step 386, training accuracy 0.50564
+test accuracy 0.500523
+step 387, training accuracy 0.50548
+test accuracy 0.500553
+step 388, training accuracy 0.50567
+test accuracy 0.500667
+step 389, training accuracy 0.50576
+test accuracy 0.50068
+step 390, training accuracy 0.50561
+test accuracy 0.50049
+step 391, training accuracy 0.50536
+test accuracy 0.500567
+step 392, training accuracy 0.50529
+test accuracy 0.500577
+step 393, training accuracy 0.50567
+test accuracy 0.500657
+step 394, training accuracy 0.50563
+test accuracy 0.500677
+step 395, training accuracy 0.50569
+test accuracy 0.500753
+step 396, training accuracy 0.50545
+test accuracy 0.50062
+step 397, training accuracy 0.50565
+test accuracy 0.500797
+step 398, training accuracy 0.50582
+test accuracy 0.50069
+step 399, training accuracy 0.50558
+test accuracy 0.500483
+
+
+--- time for learning : 10527.692271709442 seconds ---
+step 400, training accuracy 0.50564
+test accuracy 0.50028
+step 401, training accuracy 0.50584
+test accuracy 0.500187
+step 402, training accuracy 0.50571
+test accuracy 0.500093
+step 403, training accuracy 0.50582
+test accuracy 0.500137
+step 404, training accuracy 0.50572
+test accuracy 0.500183
+step 405, training accuracy 0.50577
+test accuracy 0.500257
+step 406, training accuracy 0.50576
+test accuracy 0.500363
+step 407, training accuracy 0.50599
+test accuracy 0.50049
+step 408, training accuracy 0.50579
+test accuracy 0.500583
+step 409, training accuracy 0.50555
+test accuracy 0.500407
+step 410, training accuracy 0.50588
+test accuracy 0.500283
+step 411, training accuracy 0.50563
+test accuracy 0.50006
+step 412, training accuracy 0.50599
+test accuracy 0.49996
+step 413, training accuracy 0.50637
+test accuracy 0.50014
+step 414, training accuracy 0.50661
+test accuracy 0.499913
+step 415, training accuracy 0.50647
+test accuracy 0.499783
+step 416, training accuracy 0.50614
+test accuracy 0.499933
+step 417, training accuracy 0.50662
+test accuracy 0.49983
+step 418, training accuracy 0.5068
+test accuracy 0.49996
+step 419, training accuracy 0.50693
+test accuracy 0.49993
+
+
+--- time for learning : 11038.403482198715 seconds ---
+step 420, training accuracy 0.50716
+test accuracy 0.499937
+step 421, training accuracy 0.5072
+test accuracy 0.499973
+step 422, training accuracy 0.5074
+test accuracy 0.50008
+step 423, training accuracy 0.50738
+test accuracy 0.500013
+step 424, training accuracy 0.50748
+test accuracy 0.49998
+step 425, training accuracy 0.5076
+test accuracy 0.500077
+step 426, training accuracy 0.50799
+test accuracy 0.499943
+step 427, training accuracy 0.50741
+test accuracy 0.49998
+step 428, training accuracy 0.50741
+test accuracy 0.50008
+step 429, training accuracy 0.50728
+test accuracy 0.500103
+step 430, training accuracy 0.50747
+test accuracy 0.49987
+step 431, training accuracy 0.50761
+test accuracy 0.499843
+step 432, training accuracy 0.50752
+test accuracy 0.499867
+step 433, training accuracy 0.50761
+test accuracy 0.49988
+step 434, training accuracy 0.50773
+test accuracy 0.49975
+step 435, training accuracy 0.50762
+test accuracy 0.49976
+step 436, training accuracy 0.50727
+test accuracy 0.49958
+step 437, training accuracy 0.50737
+test accuracy 0.49972
+step 438, training accuracy 0.50741
+test accuracy 0.499697
+step 439, training accuracy 0.50755
+test accuracy 0.499647
+
+
+--- time for learning : 11548.16933131218 seconds ---
+step 440, training accuracy 0.5075
+test accuracy 0.49967
+step 441, training accuracy 0.50748
+test accuracy 0.499563
+step 442, training accuracy 0.50741
+test accuracy 0.499767
+step 443, training accuracy 0.50745
+test accuracy 0.499863
+step 444, training accuracy 0.50766
+test accuracy 0.499863
+step 445, training accuracy 0.50764
+test accuracy 0.499723
+step 446, training accuracy 0.50745
+test accuracy 0.499907
+step 447, training accuracy 0.50716
+test accuracy 0.50002
+step 448, training accuracy 0.5074
+test accuracy 0.5
+step 449, training accuracy 0.50737
+test accuracy 0.500027
+step 450, training accuracy 0.50731
+test accuracy 0.499983
+step 451, training accuracy 0.50732
+test accuracy 0.500063
+step 452, training accuracy 0.507
+test accuracy 0.500027
+step 453, training accuracy 0.5071
+test accuracy 0.500207
+step 454, training accuracy 0.50705
+test accuracy 0.500233
+step 455, training accuracy 0.50701
+test accuracy 0.500253
+step 456, training accuracy 0.50721
+test accuracy 0.50036
+step 457, training accuracy 0.50717
+test accuracy 0.500337
+step 458, training accuracy 0.50731
+test accuracy 0.500247
+step 459, training accuracy 0.50731
+test accuracy 0.50027
+
+
+--- time for learning : 12061.037531137466 seconds ---
+step 460, training accuracy 0.50752
+test accuracy 0.500367
+step 461, training accuracy 0.50741
+test accuracy 0.500343
+step 462, training accuracy 0.50746
+test accuracy 0.500477
+step 463, training accuracy 0.50739
+test accuracy 0.5003
+step 464, training accuracy 0.50706
+test accuracy 0.500417
+step 465, training accuracy 0.50738
+test accuracy 0.50036
+step 466, training accuracy 0.50767
+test accuracy 0.500327
+step 467, training accuracy 0.50797
+test accuracy 0.500227
+step 468, training accuracy 0.5078
+test accuracy 0.50035
+step 469, training accuracy 0.50761
+test accuracy 0.500243
+step 470, training accuracy 0.50766
+test accuracy 0.50018
+step 471, training accuracy 0.50777
+test accuracy 0.500023
+step 472, training accuracy 0.50779
+test accuracy 0.49985
+step 473, training accuracy 0.50769
+test accuracy 0.49985
+step 474, training accuracy 0.50771
+test accuracy 0.499737
+step 475, training accuracy 0.50763
+test accuracy 0.499813
+step 476, training accuracy 0.5076
+test accuracy 0.499677
+step 477, training accuracy 0.50764
+test accuracy 0.499723
+step 478, training accuracy 0.50761
+test accuracy 0.499733
+step 479, training accuracy 0.50752
+test accuracy 0.49997
+
+
+--- time for learning : 12575.717165470123 seconds ---
+step 480, training accuracy 0.50767
+test accuracy 0.49999
+step 481, training accuracy 0.50753
+test accuracy 0.499903
+step 482, training accuracy 0.50786
+test accuracy 0.499937
+step 483, training accuracy 0.50802
+test accuracy 0.50002
+step 484, training accuracy 0.50819
+test accuracy 0.50013
+step 485, training accuracy 0.50816
+test accuracy 0.499983
+step 486, training accuracy 0.50819
+test accuracy 0.50003
+step 487, training accuracy 0.50826
+test accuracy 0.499813
+step 488, training accuracy 0.50834
+test accuracy 0.49976
+step 489, training accuracy 0.50844
+test accuracy 0.499657
+step 490, training accuracy 0.50836
+test accuracy 0.499707
+step 491, training accuracy 0.50822
+test accuracy 0.499753
+step 492, training accuracy 0.50824
+test accuracy 0.49973
+step 493, training accuracy 0.50844
+test accuracy 0.49969
+step 494, training accuracy 0.50831
+test accuracy 0.49959
+step 495, training accuracy 0.50825
+test accuracy 0.499637
+step 496, training accuracy 0.50811
+test accuracy 0.499553
+step 497, training accuracy 0.508
+test accuracy 0.49965
+step 498, training accuracy 0.50782
+test accuracy 0.499723
+step 499, training accuracy 0.50806
+test accuracy 0.4998
+
+
+--- time for learning : 13088.223421812057 seconds ---
+step 500, training accuracy 0.50799
+test accuracy 0.499767
+step 501, training accuracy 0.50792
+test accuracy 0.499853
+step 502, training accuracy 0.50783
+test accuracy 0.499737
+step 503, training accuracy 0.50789
+test accuracy 0.499797
+step 504, training accuracy 0.50801
+test accuracy 0.499963
+step 505, training accuracy 0.50799
+test accuracy 0.49985
+step 506, training accuracy 0.50769
+test accuracy 0.499917
+step 507, training accuracy 0.50809
+test accuracy 0.499887
+step 508, training accuracy 0.50788
+test accuracy 0.499923
+step 509, training accuracy 0.50798
+test accuracy 0.49995
+step 510, training accuracy 0.5083
+test accuracy 0.499943
+step 511, training accuracy 0.50839
+test accuracy 0.49982
+step 512, training accuracy 0.50846
+test accuracy 0.49992
+step 513, training accuracy 0.50831
+test accuracy 0.500013
+step 514, training accuracy 0.50838
+test accuracy 0.49991
+step 515, training accuracy 0.50824
+test accuracy 0.49973
+step 516, training accuracy 0.50787
+test accuracy 0.499753
+step 517, training accuracy 0.50768
+test accuracy 0.49964
+step 518, training accuracy 0.5076
+test accuracy 0.499533
+step 519, training accuracy 0.50756
+test accuracy 0.499527
+
+
+--- time for learning : 13598.766566038132 seconds ---
+step 520, training accuracy 0.50745
+test accuracy 0.49958
+step 521, training accuracy 0.50758
+test accuracy 0.49954
+step 522, training accuracy 0.50751
+test accuracy 0.49963
+step 523, training accuracy 0.50755
+test accuracy 0.499667
+step 524, training accuracy 0.50759
+test accuracy 0.499623
+step 525, training accuracy 0.50761
+test accuracy 0.499493
+step 526, training accuracy 0.50764
+test accuracy 0.499453
+step 527, training accuracy 0.50733
+test accuracy 0.499513
+step 528, training accuracy 0.5073
+test accuracy 0.499383
+step 529, training accuracy 0.50753
+test accuracy 0.499507
+step 530, training accuracy 0.50734
+test accuracy 0.499407
+step 531, training accuracy 0.50739
+test accuracy 0.499463
+step 532, training accuracy 0.50739
+test accuracy 0.499373
+step 533, training accuracy 0.50751
+test accuracy 0.499463
+step 534, training accuracy 0.50764
+test accuracy 0.499507
+step 535, training accuracy 0.50755
+test accuracy 0.499473
+step 536, training accuracy 0.50779
+test accuracy 0.499433
+step 537, training accuracy 0.5077
+test accuracy 0.499443
+step 538, training accuracy 0.50778
+test accuracy 0.49943
+step 539, training accuracy 0.50792
+test accuracy 0.499407
+
+
+--- time for learning : 14111.509430646896 seconds ---
+step 540, training accuracy 0.50812
+test accuracy 0.499373
+step 541, training accuracy 0.50819
+test accuracy 0.499257
+step 542, training accuracy 0.5082
+test accuracy 0.499127
+step 543, training accuracy 0.50823
+test accuracy 0.49912
+step 544, training accuracy 0.50821
+test accuracy 0.499133
+step 545, training accuracy 0.50843
+test accuracy 0.499087
+step 546, training accuracy 0.50861
+test accuracy 0.499103
+step 547, training accuracy 0.50878
+test accuracy 0.499127
+step 548, training accuracy 0.50899
+test accuracy 0.499197
+step 549, training accuracy 0.50889
+test accuracy 0.499207
+step 550, training accuracy 0.50895
+test accuracy 0.499233
+step 551, training accuracy 0.50905
+test accuracy 0.49932
+step 552, training accuracy 0.50889
+test accuracy 0.499247
+step 553, training accuracy 0.50898
+test accuracy 0.499317
+step 554, training accuracy 0.50886
+test accuracy 0.49931
+step 555, training accuracy 0.50893
+test accuracy 0.49933
+step 556, training accuracy 0.50905
+test accuracy 0.499237
+step 557, training accuracy 0.5091
+test accuracy 0.49927
+step 558, training accuracy 0.50908
+test accuracy 0.499343
+step 559, training accuracy 0.50872
+test accuracy 0.499423
+
+
+--- time for learning : 14623.585862636566 seconds ---
+step 560, training accuracy 0.50902
+test accuracy 0.499293
+step 561, training accuracy 0.5089
+test accuracy 0.4993
+step 562, training accuracy 0.50857
+test accuracy 0.499233
+step 563, training accuracy 0.50844
+test accuracy 0.499177
+step 564, training accuracy 0.50888
+test accuracy 0.49915
+step 565, training accuracy 0.50869
+test accuracy 0.499137
+step 566, training accuracy 0.50855
+test accuracy 0.499003
+step 567, training accuracy 0.5081
+test accuracy 0.498967
+step 568, training accuracy 0.5081
+test accuracy 0.498907
+step 569, training accuracy 0.50827
+test accuracy 0.499063
+step 570, training accuracy 0.50841
+test accuracy 0.498923
+step 571, training accuracy 0.50826
+test accuracy 0.498967
+step 572, training accuracy 0.50855
+test accuracy 0.499147
+step 573, training accuracy 0.50862
+test accuracy 0.499217
+step 574, training accuracy 0.50898
+test accuracy 0.499207
+step 575, training accuracy 0.5094
+test accuracy 0.499143
+step 576, training accuracy 0.50931
+test accuracy 0.499193
+step 577, training accuracy 0.50909
+test accuracy 0.49932
+step 578, training accuracy 0.50906
+test accuracy 0.499243
+step 579, training accuracy 0.50942
+test accuracy 0.499303
+
+
+--- time for learning : 15137.391347169876 seconds ---
+step 580, training accuracy 0.50989
+test accuracy 0.499413
+step 581, training accuracy 0.51029
+test accuracy 0.49939
+step 582, training accuracy 0.51015
+test accuracy 0.499383
+step 583, training accuracy 0.51012
+test accuracy 0.49943
+step 584, training accuracy 0.51041
+test accuracy 0.499357
+step 585, training accuracy 0.51014
+test accuracy 0.499247
+step 586, training accuracy 0.51011
+test accuracy 0.499383
+step 587, training accuracy 0.51015
+test accuracy 0.499287
+step 588, training accuracy 0.5106
+test accuracy 0.499317
+step 589, training accuracy 0.51097
+test accuracy 0.499057
+step 590, training accuracy 0.51121
+test accuracy 0.49918
+step 591, training accuracy 0.51127
+test accuracy 0.499277
+step 592, training accuracy 0.51141
+test accuracy 0.49931
+step 593, training accuracy 0.51139
+test accuracy 0.499307
+step 594, training accuracy 0.51123
+test accuracy 0.499237
+step 595, training accuracy 0.51142
+test accuracy 0.4993
+step 596, training accuracy 0.51155
+test accuracy 0.49931
+step 597, training accuracy 0.5114
+test accuracy 0.4993
+step 598, training accuracy 0.51142
+test accuracy 0.49941
+step 599, training accuracy 0.51148
+test accuracy 0.49942
+
+
+--- time for learning : 15651.552853345871 seconds ---
+step 600, training accuracy 0.51158
+test accuracy 0.49943
+step 601, training accuracy 0.51151
+test accuracy 0.49936
+step 602, training accuracy 0.51182
+test accuracy 0.49927
+step 603, training accuracy 0.51211
+test accuracy 0.499087
+step 604, training accuracy 0.51195
+test accuracy 0.499187
+step 605, training accuracy 0.51198
+test accuracy 0.49915
+step 606, training accuracy 0.51189
+test accuracy 0.499157
+step 607, training accuracy 0.51206
+test accuracy 0.499093
+step 608, training accuracy 0.51229
+test accuracy 0.49906
+step 609, training accuracy 0.51263
+test accuracy 0.498983
+step 610, training accuracy 0.51276
+test accuracy 0.49906
+step 611, training accuracy 0.51287
+test accuracy 0.499147
+step 612, training accuracy 0.51268
+test accuracy 0.49943
+step 613, training accuracy 0.51278
+test accuracy 0.499303
+step 614, training accuracy 0.51282
+test accuracy 0.49933
+step 615, training accuracy 0.51232
+test accuracy 0.499327
+step 616, training accuracy 0.51245
+test accuracy 0.499217
+step 617, training accuracy 0.51239
+test accuracy 0.49918
+step 618, training accuracy 0.51231
+test accuracy 0.49895
+step 619, training accuracy 0.51239
+test accuracy 0.499067
+
+
+--- time for learning : 16165.214411497116 seconds ---
+step 620, training accuracy 0.51238
+test accuracy 0.499307
+step 621, training accuracy 0.51263
+test accuracy 0.49962
+step 622, training accuracy 0.5128
+test accuracy 0.49977
+step 623, training accuracy 0.51289
+test accuracy 0.499893
+step 624, training accuracy 0.51285
+test accuracy 0.49989
+step 625, training accuracy 0.51256
+test accuracy 0.499793
+step 626, training accuracy 0.51275
+test accuracy 0.499967
+step 627, training accuracy 0.51283
+test accuracy 0.499873
+step 628, training accuracy 0.51269
+test accuracy 0.499833
+step 629, training accuracy 0.51281
+test accuracy 0.499907
+step 630, training accuracy 0.51284
+test accuracy 0.50015
+step 631, training accuracy 0.51285
+test accuracy 0.500333
+step 632, training accuracy 0.51277
+test accuracy 0.500247
+step 633, training accuracy 0.51303
+test accuracy 0.500337
+step 634, training accuracy 0.51298
+test accuracy 0.500413
+step 635, training accuracy 0.51314
+test accuracy 0.50052
+step 636, training accuracy 0.5133
+test accuracy 0.500783
+step 637, training accuracy 0.51315
+test accuracy 0.500667
+step 638, training accuracy 0.51321
+test accuracy 0.500737
+step 639, training accuracy 0.51323
+test accuracy 0.500893
+
+
+--- time for learning : 16678.86864089966 seconds ---
+step 640, training accuracy 0.51307
+test accuracy 0.501137
+step 641, training accuracy 0.51311
+test accuracy 0.50113
+step 642, training accuracy 0.51308
+test accuracy 0.50115
+step 643, training accuracy 0.51296
+test accuracy 0.50111
+step 644, training accuracy 0.51305
+test accuracy 0.501
+step 645, training accuracy 0.51288
+test accuracy 0.500997
+step 646, training accuracy 0.51315
+test accuracy 0.50104
+step 647, training accuracy 0.5133
+test accuracy 0.50086
+step 648, training accuracy 0.51303
+test accuracy 0.500893
+step 649, training accuracy 0.51304
+test accuracy 0.500693
+step 650, training accuracy 0.51288
+test accuracy 0.500427
+step 651, training accuracy 0.51317
+test accuracy 0.50048
+step 652, training accuracy 0.51292
+test accuracy 0.500507
+step 653, training accuracy 0.51313
+test accuracy 0.500497
+step 654, training accuracy 0.51313
+test accuracy 0.500317
+step 655, training accuracy 0.51311
+test accuracy 0.50053
+step 656, training accuracy 0.5129
+test accuracy 0.500713
+step 657, training accuracy 0.51288
+test accuracy 0.50047
+step 658, training accuracy 0.51243
+test accuracy 0.500507
+step 659, training accuracy 0.51238
+test accuracy 0.50056
+
+
+--- time for learning : 17189.595448732376 seconds ---
+step 660, training accuracy 0.5123
+test accuracy 0.50038
+step 661, training accuracy 0.51198
+test accuracy 0.500393
+step 662, training accuracy 0.51231
+test accuracy 0.500327
+step 663, training accuracy 0.51241
+test accuracy 0.500407
+step 664, training accuracy 0.51233
+test accuracy 0.500417
+step 665, training accuracy 0.51242
+test accuracy 0.50039
+step 666, training accuracy 0.51214
+test accuracy 0.500473
+step 667, training accuracy 0.51215
+test accuracy 0.50056
+step 668, training accuracy 0.51195
+test accuracy 0.50026
+step 669, training accuracy 0.51213
+test accuracy 0.500363
+step 670, training accuracy 0.51234
+test accuracy 0.50027
+step 671, training accuracy 0.51234
+test accuracy 0.50015
+step 672, training accuracy 0.5122
+test accuracy 0.500353
+step 673, training accuracy 0.51192
+test accuracy 0.500137
+step 674, training accuracy 0.51229
+test accuracy 0.500003
+step 675, training accuracy 0.5121
+test accuracy 0.500057
+step 676, training accuracy 0.51182
+test accuracy 0.50058
+step 677, training accuracy 0.51257
+test accuracy 0.499943
+step 678, training accuracy 0.51289
+test accuracy 0.500147
+step 679, training accuracy 0.51099
+test accuracy 0.500927
+
+
+--- time for learning : 17700.573129415512 seconds ---
+step 680, training accuracy 0.51207
+test accuracy 0.499653
+step 681, training accuracy 0.51315
+test accuracy 0.499873
+step 682, training accuracy 0.51085
+test accuracy 0.500897
+step 683, training accuracy 0.51247
+test accuracy 0.49994
+step 684, training accuracy 0.5133
+test accuracy 0.49977
+step 685, training accuracy 0.51136
+test accuracy 0.500583
+step 686, training accuracy 0.5129
+test accuracy 0.500153
+step 687, training accuracy 0.51285
+test accuracy 0.500247
+step 688, training accuracy 0.51191
+test accuracy 0.49999
+step 689, training accuracy 0.51263
+test accuracy 0.5005
+step 690, training accuracy 0.51238
+test accuracy 0.50017
+step 691, training accuracy 0.51239
+test accuracy 0.49975
+step 692, training accuracy 0.51196
+test accuracy 0.50049
+step 693, training accuracy 0.51211
+test accuracy 0.500207
+step 694, training accuracy 0.51308
+test accuracy 0.499787
+step 695, training accuracy 0.51262
+test accuracy 0.50009
+step 696, training accuracy 0.51261
+test accuracy 0.50007
+step 697, training accuracy 0.51419
+test accuracy 0.499677
+step 698, training accuracy 0.51314
+test accuracy 0.49995
+step 699, training accuracy 0.51331
+test accuracy 0.500233
+
+
+--- time for learning : 18212.770090579987 seconds ---
+step 700, training accuracy 0.51492
+test accuracy 0.499667
+step 701, training accuracy 0.5142
+test accuracy 0.500293
+step 702, training accuracy 0.51272
+test accuracy 0.500413
+step 703, training accuracy 0.51431
+test accuracy 0.49985
+step 704, training accuracy 0.51466
+test accuracy 0.500177
+step 705, training accuracy 0.51369
+test accuracy 0.500387
+step 706, training accuracy 0.51363
+test accuracy 0.499717
+step 707, training accuracy 0.51496
+test accuracy 0.49986
+step 708, training accuracy 0.51346
+test accuracy 0.500017
+step 709, training accuracy 0.51366
+test accuracy 0.499663
+step 710, training accuracy 0.51405
+test accuracy 0.49974
+step 711, training accuracy 0.5136
+test accuracy 0.499937
+step 712, training accuracy 0.51379
+test accuracy 0.499823
+step 713, training accuracy 0.51342
+test accuracy 0.49927
+step 714, training accuracy 0.51331
+test accuracy 0.500053
+step 715, training accuracy 0.51389
+test accuracy 0.499557
+step 716, training accuracy 0.51317
+test accuracy 0.499077
+step 717, training accuracy 0.51333
+test accuracy 0.499653
+step 718, training accuracy 0.51385
+test accuracy 0.499713
+step 719, training accuracy 0.51361
+test accuracy 0.49953
+
+
+--- time for learning : 18723.776847600937 seconds ---
+step 720, training accuracy 0.51481
+test accuracy 0.499533
+step 721, training accuracy 0.51427
+test accuracy 0.50005
+step 722, training accuracy 0.51353
+test accuracy 0.49989
+step 723, training accuracy 0.51417
+test accuracy 0.499777
+step 724, training accuracy 0.51426
+test accuracy 0.50038
+step 725, training accuracy 0.51315
+test accuracy 0.4999
+step 726, training accuracy 0.51392
+test accuracy 0.499557
+step 727, training accuracy 0.51364
+test accuracy 0.500083
+step 728, training accuracy 0.51329
+test accuracy 0.50006
+step 729, training accuracy 0.51429
+test accuracy 0.499927
+step 730, training accuracy 0.5138
+test accuracy 0.500027
+step 731, training accuracy 0.51309
+test accuracy 0.49979
+step 732, training accuracy 0.5142
+test accuracy 0.500043
+step 733, training accuracy 0.51285
+test accuracy 0.4998
+step 734, training accuracy 0.51335
+test accuracy 0.500213
+step 735, training accuracy 0.51412
+test accuracy 0.500143
+step 736, training accuracy 0.51228
+test accuracy 0.49957
+step 737, training accuracy 0.51353
+test accuracy 0.49999
+step 738, training accuracy 0.51416
+test accuracy 0.50055
+step 739, training accuracy 0.51373
+test accuracy 0.499953
+
+
+--- time for learning : 19235.35984158516 seconds ---
+step 740, training accuracy 0.51397
+test accuracy 0.499833
+step 741, training accuracy 0.51402
+test accuracy 0.50089
+step 742, training accuracy 0.51338
+test accuracy 0.499717
+step 743, training accuracy 0.51526
+test accuracy 0.499883
+step 744, training accuracy 0.51501
+test accuracy 0.50081
+step 745, training accuracy 0.51428
+test accuracy 0.499223
+step 746, training accuracy 0.51411
+test accuracy 0.49938
+step 747, training accuracy 0.51457
+test accuracy 0.500673
+step 748, training accuracy 0.51385
+test accuracy 0.499903
+step 749, training accuracy 0.51393
+test accuracy 0.499883
+step 750, training accuracy 0.51358
+test accuracy 0.500617
+step 751, training accuracy 0.51406
+test accuracy 0.499953
+step 752, training accuracy 0.51436
+test accuracy 0.500173
+step 753, training accuracy 0.51295
+test accuracy 0.50067
+step 754, training accuracy 0.51339
+test accuracy 0.500407
+step 755, training accuracy 0.51467
+test accuracy 0.50015
+step 756, training accuracy 0.51292
+test accuracy 0.50081
+step 757, training accuracy 0.51398
+test accuracy 0.500107
+step 758, training accuracy 0.51443
+test accuracy 0.499957
+step 759, training accuracy 0.51359
+test accuracy 0.50038
+
+
+--- time for learning : 19748.732734441757 seconds ---
+step 760, training accuracy 0.51408
+test accuracy 0.499793
+step 761, training accuracy 0.5141
+test accuracy 0.499053
+step 762, training accuracy 0.51353
+test accuracy 0.500683
+step 763, training accuracy 0.51325
+test accuracy 0.49968
+step 764, training accuracy 0.51408
+test accuracy 0.499657
+step 765, training accuracy 0.51361
+test accuracy 0.499997
+step 766, training accuracy 0.51412
+test accuracy 0.499663
+step 767, training accuracy 0.51379
+test accuracy 0.499723
+step 768, training accuracy 0.5125
+test accuracy 0.500013
+step 769, training accuracy 0.51304
+test accuracy 0.49997
+step 770, training accuracy 0.51427
+test accuracy 0.499257
+step 771, training accuracy 0.51306
+test accuracy 0.499587
+step 772, training accuracy 0.51269
+test accuracy 0.499837
+step 773, training accuracy 0.51361
+test accuracy 0.499453
+step 774, training accuracy 0.51331
+test accuracy 0.49939
+step 775, training accuracy 0.51339
+test accuracy 0.50075
+step 776, training accuracy 0.51365
+test accuracy 0.49975
+step 777, training accuracy 0.51411
+test accuracy 0.499997
+step 778, training accuracy 0.51463
+test accuracy 0.499907
+step 779, training accuracy 0.51443
+test accuracy 0.499927
+
+
+--- time for learning : 20261.731853961945 seconds ---
+step 780, training accuracy 0.51387
+test accuracy 0.499453
+step 781, training accuracy 0.51456
+test accuracy 0.500283
+step 782, training accuracy 0.51437
+test accuracy 0.500143
+step 783, training accuracy 0.5146
+test accuracy 0.499657
+step 784, training accuracy 0.51404
+test accuracy 0.499903
+step 785, training accuracy 0.51433
+test accuracy 0.499523
+step 786, training accuracy 0.51447
+test accuracy 0.499967
+step 787, training accuracy 0.51349
+test accuracy 0.50002
+step 788, training accuracy 0.51448
+test accuracy 0.499387
+step 789, training accuracy 0.51452
+test accuracy 0.499457
+step 790, training accuracy 0.51402
+test accuracy 0.500017
+step 791, training accuracy 0.51452
+test accuracy 0.499267
+step 792, training accuracy 0.5147
+test accuracy 0.499673
+step 793, training accuracy 0.51432
+test accuracy 0.500167
+step 794, training accuracy 0.51396
+test accuracy 0.499203
+step 795, training accuracy 0.51532
+test accuracy 0.49968
+step 796, training accuracy 0.5145
+test accuracy 0.499343
+step 797, training accuracy 0.51436
+test accuracy 0.499723
+step 798, training accuracy 0.51456
+test accuracy 0.499727
+step 799, training accuracy 0.51447
+test accuracy 0.499407
+
+
+--- time for learning : 20774.367169380188 seconds ---
+step 800, training accuracy 0.51434
+test accuracy 0.50012
+step 801, training accuracy 0.51459
+test accuracy 0.49984
+step 802, training accuracy 0.51486
+test accuracy 0.499423
+step 803, training accuracy 0.51465
+test accuracy 0.499863
+step 804, training accuracy 0.51412
+test accuracy 0.499777
+step 805, training accuracy 0.51516
+test accuracy 0.49964
+step 806, training accuracy 0.51471
+test accuracy 0.499487
+step 807, training accuracy 0.51357
+test accuracy 0.49892
+step 808, training accuracy 0.51476
+test accuracy 0.499673
+step 809, training accuracy 0.51473
+test accuracy 0.49973
+step 810, training accuracy 0.51354
+test accuracy 0.499337
+step 811, training accuracy 0.51548
+test accuracy 0.499357
+step 812, training accuracy 0.51423
+test accuracy 0.499673
+step 813, training accuracy 0.51392
+test accuracy 0.49947
+step 814, training accuracy 0.51565
+test accuracy 0.499517
+step 815, training accuracy 0.5137
+test accuracy 0.49972
+step 816, training accuracy 0.51434
+test accuracy 0.49896
+step 817, training accuracy 0.51529
+test accuracy 0.499753
+step 818, training accuracy 0.51459
+test accuracy 0.49906
+step 819, training accuracy 0.51528
+test accuracy 0.498777
+
+
+--- time for learning : 21285.41778945923 seconds ---
+step 820, training accuracy 0.51406
+test accuracy 0.499757
+step 821, training accuracy 0.51503
+test accuracy 0.499197
+step 822, training accuracy 0.51473
+test accuracy 0.498917
+step 823, training accuracy 0.51504
+test accuracy 0.499057
+step 824, training accuracy 0.51508
+test accuracy 0.49891
+step 825, training accuracy 0.51506
+test accuracy 0.499713
+step 826, training accuracy 0.51627
+test accuracy 0.49892
+step 827, training accuracy 0.51427
+test accuracy 0.49893
+step 828, training accuracy 0.51453
+test accuracy 0.499227
+step 829, training accuracy 0.51456
+test accuracy 0.499283
+step 830, training accuracy 0.5146
+test accuracy 0.498727
+step 831, training accuracy 0.51497
+test accuracy 0.499093
+step 832, training accuracy 0.51484
+test accuracy 0.49873
+step 833, training accuracy 0.51379
+test accuracy 0.498893
+step 834, training accuracy 0.51504
+test accuracy 0.498597
+step 835, training accuracy 0.51499
+test accuracy 0.498337
+step 836, training accuracy 0.51389
+test accuracy 0.499343
+step 837, training accuracy 0.51427
+test accuracy 0.498227
+step 838, training accuracy 0.51379
+test accuracy 0.498873
+step 839, training accuracy 0.51585
+test accuracy 0.49851
+
+
+--- time for learning : 21797.26004266739 seconds ---
+step 840, training accuracy 0.51451
+test accuracy 0.498933
+step 841, training accuracy 0.51445
+test accuracy 0.499687
+step 842, training accuracy 0.51488
+test accuracy 0.498543
+step 843, training accuracy 0.51478
+test accuracy 0.498773
+step 844, training accuracy 0.51577
+test accuracy 0.49921
+step 845, training accuracy 0.51569
+test accuracy 0.499273
+step 846, training accuracy 0.51506
+test accuracy 0.499563
+step 847, training accuracy 0.51509
+test accuracy 0.499347
+step 848, training accuracy 0.51516
+test accuracy 0.499363
+step 849, training accuracy 0.51426
+test accuracy 0.499443
+step 850, training accuracy 0.51564
+test accuracy 0.499277
+step 851, training accuracy 0.51501
+test accuracy 0.499817
+step 852, training accuracy 0.51398
+test accuracy 0.499247
+step 853, training accuracy 0.51496
+test accuracy 0.49929
+step 854, training accuracy 0.51447
+test accuracy 0.49939
+step 855, training accuracy 0.51401
+test accuracy 0.499407
+step 856, training accuracy 0.51524
+test accuracy 0.499503
+step 857, training accuracy 0.51337
+test accuracy 0.498943
+step 858, training accuracy 0.51508
+test accuracy 0.499697
+step 859, training accuracy 0.51576
+test accuracy 0.499763
+
+
+--- time for learning : 22309.299330711365 seconds ---
+step 860, training accuracy 0.51414
+test accuracy 0.499197
+step 861, training accuracy 0.51503
+test accuracy 0.499573
+step 862, training accuracy 0.51586
+test accuracy 0.50005
+step 863, training accuracy 0.5143
+test accuracy 0.49947
+step 864, training accuracy 0.51566
+test accuracy 0.49981
+step 865, training accuracy 0.51481
+test accuracy 0.499863
+step 866, training accuracy 0.51434
+test accuracy 0.499757
+step 867, training accuracy 0.51582
+test accuracy 0.499157
+step 868, training accuracy 0.51527
+test accuracy 0.499573
+step 869, training accuracy 0.51398
+test accuracy 0.500153
+step 870, training accuracy 0.51516
+test accuracy 0.499583
+step 871, training accuracy 0.51534
+test accuracy 0.499667
+step 872, training accuracy 0.51458
+test accuracy 0.5001
+step 873, training accuracy 0.5157
+test accuracy 0.49951
+step 874, training accuracy 0.51497
+test accuracy 0.500297
+step 875, training accuracy 0.51546
+test accuracy 0.50039
+step 876, training accuracy 0.51574
+test accuracy 0.500023
+step 877, training accuracy 0.51449
+test accuracy 0.500083
+step 878, training accuracy 0.51633
+test accuracy 0.49949
+step 879, training accuracy 0.51602
+test accuracy 0.5003
+
+
+--- time for learning : 22821.98673915863 seconds ---
+step 880, training accuracy 0.51438
+test accuracy 0.499813
+step 881, training accuracy 0.51497
+test accuracy 0.50047
+step 882, training accuracy 0.51576
+test accuracy 0.49998
+step 883, training accuracy 0.51387
+test accuracy 0.500257
+step 884, training accuracy 0.51454
+test accuracy 0.50044
+step 885, training accuracy 0.51596
+test accuracy 0.50011
+step 886, training accuracy 0.51549
+test accuracy 0.499973
+step 887, training accuracy 0.51581
+test accuracy 0.500057
+step 888, training accuracy 0.5162
+test accuracy 0.499943
+step 889, training accuracy 0.51526
+test accuracy 0.500053
+step 890, training accuracy 0.51523
+test accuracy 0.500213
+step 891, training accuracy 0.51547
+test accuracy 0.49967
+step 892, training accuracy 0.51503
+test accuracy 0.499503
+step 893, training accuracy 0.51503
+test accuracy 0.500417
+step 894, training accuracy 0.51505
+test accuracy 0.500063
+step 895, training accuracy 0.51403
+test accuracy 0.499133
+step 896, training accuracy 0.51518
+test accuracy 0.500513
+step 897, training accuracy 0.51437
+test accuracy 0.50045
+step 898, training accuracy 0.51314
+test accuracy 0.499503
+step 899, training accuracy 0.51502
+test accuracy 0.50044
+
+
+--- time for learning : 23336.214459896088 seconds ---
+step 900, training accuracy 0.51489
+test accuracy 0.499777
+step 901, training accuracy 0.51445
+test accuracy 0.49955
+step 902, training accuracy 0.5158
+test accuracy 0.499517
+step 903, training accuracy 0.51496
+test accuracy 0.500277
+step 904, training accuracy 0.51367
+test accuracy 0.499267
+step 905, training accuracy 0.51507
+test accuracy 0.499843
+step 906, training accuracy 0.51485
+test accuracy 0.5
+step 907, training accuracy 0.51476
+test accuracy 0.49942
+step 908, training accuracy 0.51541
+test accuracy 0.499563
+step 909, training accuracy 0.51522
+test accuracy 0.499907
+step 910, training accuracy 0.51392
+test accuracy 0.49982
+step 911, training accuracy 0.51569
+test accuracy 0.499563
+step 912, training accuracy 0.51546
+test accuracy 0.49961
+step 913, training accuracy 0.51464
+test accuracy 0.499757
+step 914, training accuracy 0.51669
+test accuracy 0.499743
+step 915, training accuracy 0.51517
+test accuracy 0.49938
+step 916, training accuracy 0.51479
+test accuracy 0.49944
+step 917, training accuracy 0.51701
+test accuracy 0.49988
+step 918, training accuracy 0.51496
+test accuracy 0.49986
+step 919, training accuracy 0.51465
+test accuracy 0.499737
+
+
+--- time for learning : 23850.635865449905 seconds ---
+step 920, training accuracy 0.51614
+test accuracy 0.499873
+step 921, training accuracy 0.51492
+test accuracy 0.499803
+step 922, training accuracy 0.51476
+test accuracy 0.49906
+step 923, training accuracy 0.51538
+test accuracy 0.499663
+step 924, training accuracy 0.51519
+test accuracy 0.500053
+step 925, training accuracy 0.51353
+test accuracy 0.499317
+step 926, training accuracy 0.515
+test accuracy 0.499757
+step 927, training accuracy 0.51452
+test accuracy 0.499913
+step 928, training accuracy 0.51407
+test accuracy 0.499657
+step 929, training accuracy 0.5152
+test accuracy 0.500817
+step 930, training accuracy 0.51435
+test accuracy 0.499863
+step 931, training accuracy 0.51367
+test accuracy 0.49994
+step 932, training accuracy 0.5146
+test accuracy 0.500547
+step 933, training accuracy 0.51576
+test accuracy 0.499693
+step 934, training accuracy 0.51451
+test accuracy 0.50044
+step 935, training accuracy 0.51463
+test accuracy 0.500097
+step 936, training accuracy 0.51468
+test accuracy 0.5001
+step 937, training accuracy 0.51393
+test accuracy 0.500143
+step 938, training accuracy 0.51544
+test accuracy 0.50099
+step 939, training accuracy 0.51439
+test accuracy 0.500587
+
+
+--- time for learning : 24364.765498638153 seconds ---
+step 940, training accuracy 0.51549
+test accuracy 0.500247
+step 941, training accuracy 0.51449
+test accuracy 0.501053
+step 942, training accuracy 0.51488
+test accuracy 0.49977
+step 943, training accuracy 0.51507
+test accuracy 0.499663
+step 944, training accuracy 0.51529
+test accuracy 0.500423
+step 945, training accuracy 0.51436
+test accuracy 0.50042
+step 946, training accuracy 0.51559
+test accuracy 0.500423
+step 947, training accuracy 0.51489
+test accuracy 0.5005
+step 948, training accuracy 0.51572
+test accuracy 0.500163
+step 949, training accuracy 0.51582
+test accuracy 0.49997
+step 950, training accuracy 0.51465
+test accuracy 0.500687
+step 951, training accuracy 0.5159
+test accuracy 0.50028
+step 952, training accuracy 0.51536
+test accuracy 0.50033
+step 953, training accuracy 0.51787
+test accuracy 0.50036
+step 954, training accuracy 0.5163
+test accuracy 0.5
+step 955, training accuracy 0.51564
+test accuracy 0.50087
+step 956, training accuracy 0.51582
+test accuracy 0.50059
+step 957, training accuracy 0.51496
+test accuracy 0.500127
+step 958, training accuracy 0.51679
+test accuracy 0.500727
+step 959, training accuracy 0.51473
+test accuracy 0.500313
+
+
+--- time for learning : 24878.855289936066 seconds ---
+step 960, training accuracy 0.51506
+test accuracy 0.500457
+step 961, training accuracy 0.51586
+test accuracy 0.50032
+step 962, training accuracy 0.51477
+test accuracy 0.500357
+step 963, training accuracy 0.51497
+test accuracy 0.500037
+step 964, training accuracy 0.51459
+test accuracy 0.500347
+step 965, training accuracy 0.51539
+test accuracy 0.500273
+step 966, training accuracy 0.51539
+test accuracy 0.500587
+step 967, training accuracy 0.51496
+test accuracy 0.500653
+step 968, training accuracy 0.51603
+test accuracy 0.500373
+step 969, training accuracy 0.51617
+test accuracy 0.500567
+step 970, training accuracy 0.51576
+test accuracy 0.49968
+step 971, training accuracy 0.51563
+test accuracy 0.500317
+step 972, training accuracy 0.51568
+test accuracy 0.499883
+step 973, training accuracy 0.51624
+test accuracy 0.50016
+step 974, training accuracy 0.51566
+test accuracy 0.50108
+step 975, training accuracy 0.51614
+test accuracy 0.50008
+step 976, training accuracy 0.51666
+test accuracy 0.499933
+step 977, training accuracy 0.51621
+test accuracy 0.500547
+step 978, training accuracy 0.51575
+test accuracy 0.50063
+step 979, training accuracy 0.51633
+test accuracy 0.50028
+
+
+--- time for learning : 25392.897224903107 seconds ---
+step 980, training accuracy 0.51558
+test accuracy 0.500233
+step 981, training accuracy 0.51594
+test accuracy 0.500527
+step 982, training accuracy 0.51539
+test accuracy 0.500797
+step 983, training accuracy 0.51581
+test accuracy 0.500727
+step 984, training accuracy 0.51602
+test accuracy 0.500167
+step 985, training accuracy 0.51511
+test accuracy 0.500423
+step 986, training accuracy 0.51624
+test accuracy 0.50007
+step 987, training accuracy 0.51486
+test accuracy 0.49992
+step 988, training accuracy 0.51647
+test accuracy 0.500623
+step 989, training accuracy 0.51468
+test accuracy 0.500737
+step 990, training accuracy 0.51559
+test accuracy 0.500737
+step 991, training accuracy 0.51613
+test accuracy 0.500767
+step 992, training accuracy 0.51464
+test accuracy 0.50073
+step 993, training accuracy 0.51673
+test accuracy 0.500587
+step 994, training accuracy 0.5154
+test accuracy 0.500897
+step 995, training accuracy 0.51489
+test accuracy 0.50076
+step 996, training accuracy 0.51573
+test accuracy 0.500873
+step 997, training accuracy 0.51506
+test accuracy 0.50063
+step 998, training accuracy 0.51611
+test accuracy 0.500313
+step 999, training accuracy 0.51482
+test accuracy 0.50045
+best accuracy 0.5032066702842712
+
+
+--- time for learning : 26084.428709983826 seconds ---
+step 0, training accuracy 0.49879
+test accuracy 0.501003
+step 1, training accuracy 0.48794
+test accuracy 0.500543
+step 2, training accuracy 0.5017
+test accuracy 0.499893
+step 3, training accuracy 0.50322
+test accuracy 0.499623
+step 4, training accuracy 0.53108
+test accuracy 0.49989
+step 5, training accuracy 0.57428
+test accuracy 0.499703
+step 6, training accuracy 0.58932
+test accuracy 0.49975
+step 7, training accuracy 0.60856
+test accuracy 0.50023
+step 8, training accuracy 0.62751
+test accuracy 0.499733
+step 9, training accuracy 0.63587
+test accuracy 0.499607
+step 10, training accuracy 0.64311
+test accuracy 0.498933
+step 11, training accuracy 0.64735
+test accuracy 0.499373
+step 12, training accuracy 0.65172
+test accuracy 0.499483
+step 13, training accuracy 0.65472
+test accuracy 0.498037
+step 14, training accuracy 0.65555
+test accuracy 0.498517
+step 15, training accuracy 0.65149
+test accuracy 0.498803
+step 16, training accuracy 0.64922
+test accuracy 0.498627
+step 17, training accuracy 0.64305
+test accuracy 0.49708
+step 18, training accuracy 0.64132
+test accuracy 0.499213
+step 19, training accuracy 0.64103
+test accuracy 0.499663
+
+
+--- time for learning : 26669.937602043152 seconds ---
+step 20, training accuracy 0.6399
+test accuracy 0.49934
+step 21, training accuracy 0.64023
+test accuracy 0.499393
+step 22, training accuracy 0.64299
+test accuracy 0.49955
+step 23, training accuracy 0.64301
+test accuracy 0.49974
+step 24, training accuracy 0.64467
+test accuracy 0.498883
+step 25, training accuracy 0.64614
+test accuracy 0.498927
+step 26, training accuracy 0.64277
+test accuracy 0.500967
+step 27, training accuracy 0.64381
+test accuracy 0.49917
+step 28, training accuracy 0.64538
+test accuracy 0.499447
+step 29, training accuracy 0.64237
+test accuracy 0.500233
+step 30, training accuracy 0.64547
+test accuracy 0.499407
+step 31, training accuracy 0.64478
+test accuracy 0.498487
+step 32, training accuracy 0.64457
+test accuracy 0.500197
+step 33, training accuracy 0.6467
+test accuracy 0.49983
+step 34, training accuracy 0.64383
+test accuracy 0.499227
+step 35, training accuracy 0.64346
+test accuracy 0.498807
+step 36, training accuracy 0.6458
+test accuracy 0.50112
+step 37, training accuracy 0.64554
+test accuracy 0.49982
+step 38, training accuracy 0.64301
+test accuracy 0.49984
+step 39, training accuracy 0.64273
+test accuracy 0.498913
+
+
+--- time for learning : 27187.831478118896 seconds ---
+step 40, training accuracy 0.64494
+test accuracy 0.500633
+step 41, training accuracy 0.6397
+test accuracy 0.500123
+step 42, training accuracy 0.64167
+test accuracy 0.500523
+step 43, training accuracy 0.6422
+test accuracy 0.49896
+step 44, training accuracy 0.64093
+test accuracy 0.499643
+step 45, training accuracy 0.64
+test accuracy 0.50064
+step 46, training accuracy 0.64101
+test accuracy 0.500107
+step 47, training accuracy 0.64064
+test accuracy 0.500907
+step 48, training accuracy 0.63826
+test accuracy 0.4988
+step 49, training accuracy 0.63617
+test accuracy 0.500347
+step 50, training accuracy 0.63886
+test accuracy 0.49936
+step 51, training accuracy 0.63569
+test accuracy 0.500317
+step 52, training accuracy 0.6388
+test accuracy 0.500367
+step 53, training accuracy 0.63601
+test accuracy 0.500627
+step 54, training accuracy 0.63897
+test accuracy 0.50017
+step 55, training accuracy 0.63633
+test accuracy 0.499173
+step 56, training accuracy 0.63666
+test accuracy 0.499217
+step 57, training accuracy 0.63949
+test accuracy 0.50088
+step 58, training accuracy 0.63702
+test accuracy 0.499757
+step 59, training accuracy 0.63366
+test accuracy 0.499533
+
+
+--- time for learning : 27701.680474042892 seconds ---
+step 60, training accuracy 0.63773
+test accuracy 0.5007
+step 61, training accuracy 0.63792
+test accuracy 0.499893
+step 62, training accuracy 0.63192
+test accuracy 0.499197
+step 63, training accuracy 0.64224
+test accuracy 0.500173
+step 64, training accuracy 0.63569
+test accuracy 0.49993
+step 65, training accuracy 0.63242
+test accuracy 0.500037
+step 66, training accuracy 0.63828
+test accuracy 0.498757
+step 67, training accuracy 0.63636
+test accuracy 0.4989
+step 68, training accuracy 0.63642
+test accuracy 0.50134
+step 69, training accuracy 0.63247
+test accuracy 0.500107
+step 70, training accuracy 0.63573
+test accuracy 0.501003
+step 71, training accuracy 0.63119
+test accuracy 0.500177
+step 72, training accuracy 0.63674
+test accuracy 0.50022
+step 73, training accuracy 0.63419
+test accuracy 0.49939
+step 74, training accuracy 0.63556
+test accuracy 0.499427
+step 75, training accuracy 0.63438
+test accuracy 0.50027
+step 76, training accuracy 0.63079
+test accuracy 0.499747
+step 77, training accuracy 0.63407
+test accuracy 0.499617
+step 78, training accuracy 0.63496
+test accuracy 0.50113
+step 79, training accuracy 0.63256
+test accuracy 0.501003
+
+
+--- time for learning : 28215.358294487 seconds ---
+step 80, training accuracy 0.6347
+test accuracy 0.49825
+step 81, training accuracy 0.63023
+test accuracy 0.499463
+step 82, training accuracy 0.63111
+test accuracy 0.4989
+step 83, training accuracy 0.63326
+test accuracy 0.499403
+step 84, training accuracy 0.63133
+test accuracy 0.500097
+step 85, training accuracy 0.62988
+test accuracy 0.498917
+step 86, training accuracy 0.63043
+test accuracy 0.500473
+step 87, training accuracy 0.63459
+test accuracy 0.498773
+step 88, training accuracy 0.62957
+test accuracy 0.5006
+step 89, training accuracy 0.63085
+test accuracy 0.49804
+step 90, training accuracy 0.63057
+test accuracy 0.497673
+step 91, training accuracy 0.63159
+test accuracy 0.499473
+step 92, training accuracy 0.63481
+test accuracy 0.498817
+step 93, training accuracy 0.63038
+test accuracy 0.499587
+step 94, training accuracy 0.63295
+test accuracy 0.49916
+step 95, training accuracy 0.63291
+test accuracy 0.499287
+step 96, training accuracy 0.62882
+test accuracy 0.499757
+step 97, training accuracy 0.62921
+test accuracy 0.499923
+step 98, training accuracy 0.62987
+test accuracy 0.499647
+step 99, training accuracy 0.62488
+test accuracy 0.500163
+
+
+--- time for learning : 28733.601801633835 seconds ---
+step 100, training accuracy 0.62637
+test accuracy 0.49888
+step 101, training accuracy 0.62871
+test accuracy 0.498873
+step 102, training accuracy 0.62864
+test accuracy 0.498553
+step 103, training accuracy 0.6239
+test accuracy 0.499623
+step 104, training accuracy 0.63014
+test accuracy 0.500247
+step 105, training accuracy 0.6239
+test accuracy 0.49964
+step 106, training accuracy 0.62554
+test accuracy 0.500217
+step 107, training accuracy 0.62619
+test accuracy 0.499113
+step 108, training accuracy 0.62505
+test accuracy 0.49962
+step 109, training accuracy 0.62305
+test accuracy 0.500123
+step 110, training accuracy 0.62551
+test accuracy 0.500657
+step 111, training accuracy 0.62427
+test accuracy 0.501073
+step 112, training accuracy 0.62087
+test accuracy 0.50001
+step 113, training accuracy 0.62321
+test accuracy 0.498933
+step 114, training accuracy 0.62292
+test accuracy 0.500893
+step 115, training accuracy 0.62398
+test accuracy 0.499673
+step 116, training accuracy 0.62172
+test accuracy 0.500443
+step 117, training accuracy 0.62277
+test accuracy 0.499003
+step 118, training accuracy 0.62192
+test accuracy 0.49979
+step 119, training accuracy 0.62136
+test accuracy 0.49885
+
+
+--- time for learning : 29251.91687321663 seconds ---
+step 120, training accuracy 0.62051
+test accuracy 0.49981
+step 121, training accuracy 0.61917
+test accuracy 0.50063
+step 122, training accuracy 0.62231
+test accuracy 0.49977
+step 123, training accuracy 0.62193
+test accuracy 0.499493
+step 124, training accuracy 0.62183
+test accuracy 0.501477
+step 125, training accuracy 0.62226
+test accuracy 0.499707
+step 126, training accuracy 0.61928
+test accuracy 0.50017
+step 127, training accuracy 0.61404
+test accuracy 0.500227
+step 128, training accuracy 0.6185
+test accuracy 0.500443
+step 129, training accuracy 0.621
+test accuracy 0.500503
+step 130, training accuracy 0.61423
+test accuracy 0.501053
+step 131, training accuracy 0.61586
+test accuracy 0.500853
+step 132, training accuracy 0.61306
+test accuracy 0.50147
+step 133, training accuracy 0.61769
+test accuracy 0.500617
+step 134, training accuracy 0.61512
+test accuracy 0.50088
+step 135, training accuracy 0.61696
+test accuracy 0.50094
+step 136, training accuracy 0.61647
+test accuracy 0.500963
+step 137, training accuracy 0.61346
+test accuracy 0.500593
+step 138, training accuracy 0.61604
+test accuracy 0.50223
+step 139, training accuracy 0.60954
+test accuracy 0.500387
+
+
+--- time for learning : 29765.042718172073 seconds ---
+step 140, training accuracy 0.61242
+test accuracy 0.500093
+step 141, training accuracy 0.61094
+test accuracy 0.500367
+step 142, training accuracy 0.61187
+test accuracy 0.501883
+step 143, training accuracy 0.61273
+test accuracy 0.501993
+step 144, training accuracy 0.61325
+test accuracy 0.500307
+step 145, training accuracy 0.61021
+test accuracy 0.5014
+step 146, training accuracy 0.6095
+test accuracy 0.501167
+step 147, training accuracy 0.61354
+test accuracy 0.50098
+step 148, training accuracy 0.6084
+test accuracy 0.50051
+step 149, training accuracy 0.60902
+test accuracy 0.499993
+step 150, training accuracy 0.60905
+test accuracy 0.500727
+step 151, training accuracy 0.61091
+test accuracy 0.501043
+step 152, training accuracy 0.60855
+test accuracy 0.50197
+step 153, training accuracy 0.60675
+test accuracy 0.50102
+step 154, training accuracy 0.6056
+test accuracy 0.501207
+step 155, training accuracy 0.61202
+test accuracy 0.50208
+step 156, training accuracy 0.60572
+test accuracy 0.49936
+step 157, training accuracy 0.60735
+test accuracy 0.49932
+step 158, training accuracy 0.60729
+test accuracy 0.50068
+step 159, training accuracy 0.60557
+test accuracy 0.49981
+
+
+--- time for learning : 30277.97510790825 seconds ---
+step 160, training accuracy 0.60353
+test accuracy 0.49958
+step 161, training accuracy 0.60696
+test accuracy 0.501063
+step 162, training accuracy 0.60203
+test accuracy 0.499283
+step 163, training accuracy 0.60217
+test accuracy 0.501593
+step 164, training accuracy 0.60287
+test accuracy 0.50189
+step 165, training accuracy 0.599
+test accuracy 0.502783
+step 166, training accuracy 0.59838
+test accuracy 0.499857
+step 167, training accuracy 0.59548
+test accuracy 0.500893
+step 168, training accuracy 0.5937
+test accuracy 0.500907
+step 169, training accuracy 0.5959
+test accuracy 0.501557
+step 170, training accuracy 0.59772
+test accuracy 0.500287
+step 171, training accuracy 0.59345
+test accuracy 0.498873
+step 172, training accuracy 0.59684
+test accuracy 0.50221
+step 173, training accuracy 0.59916
+test accuracy 0.500157
+step 174, training accuracy 0.59249
+test accuracy 0.50128
+step 175, training accuracy 0.59593
+test accuracy 0.502333
+step 176, training accuracy 0.59278
+test accuracy 0.500483
+step 177, training accuracy 0.59087
+test accuracy 0.500587
+step 178, training accuracy 0.59643
+test accuracy 0.500063
+step 179, training accuracy 0.58797
+test accuracy 0.500203
+
+
+--- time for learning : 30794.148151874542 seconds ---
+step 180, training accuracy 0.59274
+test accuracy 0.49955
+step 181, training accuracy 0.59308
+test accuracy 0.500377
+step 182, training accuracy 0.58929
+test accuracy 0.50189
+step 183, training accuracy 0.59087
+test accuracy 0.50018
+step 184, training accuracy 0.59252
+test accuracy 0.50091
+step 185, training accuracy 0.58866
+test accuracy 0.501533
+step 186, training accuracy 0.58908
+test accuracy 0.501313
+step 187, training accuracy 0.58699
+test accuracy 0.500487
+step 188, training accuracy 0.58341
+test accuracy 0.500417
+step 189, training accuracy 0.58635
+test accuracy 0.501557
+step 190, training accuracy 0.58736
+test accuracy 0.499927
+step 191, training accuracy 0.5834
+test accuracy 0.50061
+step 192, training accuracy 0.58081
+test accuracy 0.500573
+step 193, training accuracy 0.5802
+test accuracy 0.499753
+step 194, training accuracy 0.5779
+test accuracy 0.499287
+step 195, training accuracy 0.58091
+test accuracy 0.501027
+step 196, training accuracy 0.57953
+test accuracy 0.49881
+step 197, training accuracy 0.57681
+test accuracy 0.500713
+step 198, training accuracy 0.57944
+test accuracy 0.499877
+step 199, training accuracy 0.57928
+test accuracy 0.49892
+
+
+--- time for learning : 31310.364056825638 seconds ---
+step 200, training accuracy 0.57618
+test accuracy 0.500467
+step 201, training accuracy 0.57716
+test accuracy 0.499457
+step 202, training accuracy 0.57541
+test accuracy 0.500523
+step 203, training accuracy 0.57726
+test accuracy 0.500217
+step 204, training accuracy 0.5736
+test accuracy 0.500147
+step 205, training accuracy 0.57446
+test accuracy 0.50015
+step 206, training accuracy 0.57547
+test accuracy 0.49917
+step 207, training accuracy 0.57028
+test accuracy 0.49881
+step 208, training accuracy 0.57148
+test accuracy 0.5007
+step 209, training accuracy 0.56876
+test accuracy 0.50086
+step 210, training accuracy 0.56968
+test accuracy 0.500817
+step 211, training accuracy 0.56782
+test accuracy 0.501663
+step 212, training accuracy 0.56662
+test accuracy 0.50068
+step 213, training accuracy 0.56639
+test accuracy 0.500577
+step 214, training accuracy 0.56358
+test accuracy 0.50063
+step 215, training accuracy 0.56472
+test accuracy 0.50172
+step 216, training accuracy 0.56291
+test accuracy 0.50007
+step 217, training accuracy 0.56415
+test accuracy 0.500077
+step 218, training accuracy 0.56475
+test accuracy 0.499227
+step 219, training accuracy 0.56357
+test accuracy 0.501063
+
+
+--- time for learning : 31826.90044760704 seconds ---
+step 220, training accuracy 0.57055
+test accuracy 0.49971
+step 221, training accuracy 0.56341
+test accuracy 0.50107
+step 222, training accuracy 0.56443
+test accuracy 0.50045
+step 223, training accuracy 0.56814
+test accuracy 0.505767
+step 224, training accuracy 0.55812
+test accuracy 0.500053
+step 225, training accuracy 0.53289
+test accuracy 0.498593
+step 226, training accuracy 0.50208
+test accuracy 0.498867
+step 227, training accuracy 0.49889
+test accuracy 0.499827
+step 228, training accuracy 0.4985
+test accuracy 0.498117
+step 229, training accuracy 0.50036
+test accuracy 0.500243
+step 230, training accuracy 0.50213
+test accuracy 0.49912
+step 231, training accuracy 0.50257
+test accuracy 0.502307
+step 232, training accuracy 0.50384
+test accuracy 0.501017
+step 233, training accuracy 0.50256
+test accuracy 0.499567
+step 234, training accuracy 0.50234
+test accuracy 0.500443
+step 235, training accuracy 0.50292
+test accuracy 0.498647
+step 236, training accuracy 0.50416
+test accuracy 0.498867
+step 237, training accuracy 0.50782
+test accuracy 0.498617
+step 238, training accuracy 0.50674
+test accuracy 0.498347
+step 239, training accuracy 0.50924
+test accuracy 0.499127
+
+
+--- time for learning : 32342.678879261017 seconds ---
+step 240, training accuracy 0.51002
+test accuracy 0.499337
+step 241, training accuracy 0.51009
+test accuracy 0.49912
+step 242, training accuracy 0.51075
+test accuracy 0.498667
+step 243, training accuracy 0.51173
+test accuracy 0.498827
+step 244, training accuracy 0.51187
+test accuracy 0.4989
+step 245, training accuracy 0.5133
+test accuracy 0.499013
+step 246, training accuracy 0.51449
+test accuracy 0.498947
+step 247, training accuracy 0.51425
+test accuracy 0.49978
+step 248, training accuracy 0.51382
+test accuracy 0.49944
+step 249, training accuracy 0.51418
+test accuracy 0.49837
+step 250, training accuracy 0.51479
+test accuracy 0.498813
+step 251, training accuracy 0.51556
+test accuracy 0.498827
+step 252, training accuracy 0.51646
+test accuracy 0.498793
+step 253, training accuracy 0.51728
+test accuracy 0.498793
+step 254, training accuracy 0.51716
+test accuracy 0.498347
+step 255, training accuracy 0.51743
+test accuracy 0.498873
+step 256, training accuracy 0.51768
+test accuracy 0.498737
+step 257, training accuracy 0.51861
+test accuracy 0.499593
+step 258, training accuracy 0.51887
+test accuracy 0.49887
+step 259, training accuracy 0.51966
+test accuracy 0.499083
+
+
+--- time for learning : 32859.5574593544 seconds ---
+step 260, training accuracy 0.51954
+test accuracy 0.499133
+step 261, training accuracy 0.52046
+test accuracy 0.49907
+step 262, training accuracy 0.52087
+test accuracy 0.49886
+step 263, training accuracy 0.52162
+test accuracy 0.49897
+step 264, training accuracy 0.52191
+test accuracy 0.499037
+step 265, training accuracy 0.52267
+test accuracy 0.499177
+step 266, training accuracy 0.5234
+test accuracy 0.499437
+step 267, training accuracy 0.52364
+test accuracy 0.499443
+step 268, training accuracy 0.52412
+test accuracy 0.499433
+step 269, training accuracy 0.52477
+test accuracy 0.499523
+step 270, training accuracy 0.52496
+test accuracy 0.499623
+step 271, training accuracy 0.52533
+test accuracy 0.499697
+step 272, training accuracy 0.52617
+test accuracy 0.49961
+step 273, training accuracy 0.52681
+test accuracy 0.499497
+step 274, training accuracy 0.52697
+test accuracy 0.49929
+step 275, training accuracy 0.52752
+test accuracy 0.499217
+step 276, training accuracy 0.52744
+test accuracy 0.498593
+step 277, training accuracy 0.52694
+test accuracy 0.498297
+step 278, training accuracy 0.52696
+test accuracy 0.49817
+step 279, training accuracy 0.52767
+test accuracy 0.498727
+
+
+--- time for learning : 33376.8777282238 seconds ---
+step 280, training accuracy 0.53033
+test accuracy 0.499033
+step 281, training accuracy 0.53021
+test accuracy 0.498767
+step 282, training accuracy 0.53129
+test accuracy 0.499073
+step 283, training accuracy 0.53261
+test accuracy 0.499247
+step 284, training accuracy 0.53296
+test accuracy 0.49917
+step 285, training accuracy 0.53376
+test accuracy 0.499237
+step 286, training accuracy 0.5343
+test accuracy 0.499177
+step 287, training accuracy 0.53437
+test accuracy 0.49908
+step 288, training accuracy 0.53468
+test accuracy 0.499133
+step 289, training accuracy 0.53521
+test accuracy 0.499557
+step 290, training accuracy 0.53565
+test accuracy 0.499343
+step 291, training accuracy 0.53641
+test accuracy 0.499487
+step 292, training accuracy 0.53688
+test accuracy 0.499497
+step 293, training accuracy 0.53771
+test accuracy 0.499193
+step 294, training accuracy 0.53794
+test accuracy 0.49926
+step 295, training accuracy 0.53824
+test accuracy 0.499327
+step 296, training accuracy 0.53819
+test accuracy 0.49934
+step 297, training accuracy 0.53867
+test accuracy 0.49939
+step 298, training accuracy 0.53882
+test accuracy 0.499607
+step 299, training accuracy 0.5396
+test accuracy 0.499743
+
+
+--- time for learning : 33894.10234093666 seconds ---
+step 300, training accuracy 0.53974
+test accuracy 0.499873
+step 301, training accuracy 0.53997
+test accuracy 0.49991
+step 302, training accuracy 0.54023
+test accuracy 0.499843
+step 303, training accuracy 0.54031
+test accuracy 0.500087
+step 304, training accuracy 0.54058
+test accuracy 0.500137
+step 305, training accuracy 0.54167
+test accuracy 0.50002
+step 306, training accuracy 0.54224
+test accuracy 0.499483
+step 307, training accuracy 0.54245
+test accuracy 0.499427
+step 308, training accuracy 0.54303
+test accuracy 0.49977
+step 309, training accuracy 0.54296
+test accuracy 0.49971
+step 310, training accuracy 0.54266
+test accuracy 0.49955
+step 311, training accuracy 0.5425
+test accuracy 0.4993
+step 312, training accuracy 0.54197
+test accuracy 0.499273
+step 313, training accuracy 0.54195
+test accuracy 0.499687
+step 314, training accuracy 0.54326
+test accuracy 0.499897
+step 315, training accuracy 0.54539
+test accuracy 0.499953
+step 316, training accuracy 0.54566
+test accuracy 0.49959
+step 317, training accuracy 0.54611
+test accuracy 0.499953
+step 318, training accuracy 0.54631
+test accuracy 0.499993
+step 319, training accuracy 0.5467
+test accuracy 0.50014
+
+
+--- time for learning : 34410.48545408249 seconds ---
+step 320, training accuracy 0.54664
+test accuracy 0.499963
+step 321, training accuracy 0.54732
+test accuracy 0.499713
+step 322, training accuracy 0.54755
+test accuracy 0.49976
+step 323, training accuracy 0.54767
+test accuracy 0.499897
+step 324, training accuracy 0.54889
+test accuracy 0.500033
+step 325, training accuracy 0.54959
+test accuracy 0.500083
+step 326, training accuracy 0.55004
+test accuracy 0.49999
+step 327, training accuracy 0.55101
+test accuracy 0.49979
+step 328, training accuracy 0.55141
+test accuracy 0.499827
+step 329, training accuracy 0.55196
+test accuracy 0.499873
+step 330, training accuracy 0.55242
+test accuracy 0.49989
+step 331, training accuracy 0.5527
+test accuracy 0.499677
+step 332, training accuracy 0.55334
+test accuracy 0.499743
+step 333, training accuracy 0.55401
+test accuracy 0.49995
+step 334, training accuracy 0.55399
+test accuracy 0.500167
+step 335, training accuracy 0.55473
+test accuracy 0.499967
+step 336, training accuracy 0.55479
+test accuracy 0.499833
+step 337, training accuracy 0.55532
+test accuracy 0.49969
+step 338, training accuracy 0.55557
+test accuracy 0.499763
+step 339, training accuracy 0.55586
+test accuracy 0.499807
+
+
+--- time for learning : 34926.73902106285 seconds ---
+step 340, training accuracy 0.55624
+test accuracy 0.499847
+step 341, training accuracy 0.55701
+test accuracy 0.49976
+step 342, training accuracy 0.55746
+test accuracy 0.4999
+step 343, training accuracy 0.55841
+test accuracy 0.49993
+step 344, training accuracy 0.55875
+test accuracy 0.500143
+step 345, training accuracy 0.55899
+test accuracy 0.500127
+step 346, training accuracy 0.55905
+test accuracy 0.500193
+step 347, training accuracy 0.55962
+test accuracy 0.500517
+step 348, training accuracy 0.56001
+test accuracy 0.50009
+step 349, training accuracy 0.55983
+test accuracy 0.500107
+step 350, training accuracy 0.56057
+test accuracy 0.499747
+step 351, training accuracy 0.56072
+test accuracy 0.499807
+step 352, training accuracy 0.56105
+test accuracy 0.499747
+step 353, training accuracy 0.56108
+test accuracy 0.49933
+step 354, training accuracy 0.56159
+test accuracy 0.499663
+step 355, training accuracy 0.56209
+test accuracy 0.49987
+step 356, training accuracy 0.56292
+test accuracy 0.500263
+step 357, training accuracy 0.56351
+test accuracy 0.50072
+step 358, training accuracy 0.56414
+test accuracy 0.500357
+step 359, training accuracy 0.56446
+test accuracy 0.500603
+
+
+--- time for learning : 35444.2350153923 seconds ---
+step 360, training accuracy 0.56493
+test accuracy 0.50053
+step 361, training accuracy 0.56529
+test accuracy 0.50048
+step 362, training accuracy 0.56565
+test accuracy 0.50074
+step 363, training accuracy 0.56594
+test accuracy 0.500807
+step 364, training accuracy 0.56608
+test accuracy 0.50078
+step 365, training accuracy 0.5664
+test accuracy 0.500867
+step 366, training accuracy 0.56654
+test accuracy 0.500883
+step 367, training accuracy 0.56752
+test accuracy 0.50087
+step 368, training accuracy 0.56776
+test accuracy 0.500763
+step 369, training accuracy 0.56738
+test accuracy 0.50089
+step 370, training accuracy 0.56707
+test accuracy 0.501073
+step 371, training accuracy 0.56763
+test accuracy 0.500967
+step 372, training accuracy 0.56798
+test accuracy 0.500983
+step 373, training accuracy 0.56923
+test accuracy 0.500967
+step 374, training accuracy 0.56996
+test accuracy 0.501233
+step 375, training accuracy 0.57033
+test accuracy 0.501037
+step 376, training accuracy 0.57121
+test accuracy 0.50095
+step 377, training accuracy 0.57129
+test accuracy 0.50086
+step 378, training accuracy 0.57177
+test accuracy 0.50102
+step 379, training accuracy 0.57243
+test accuracy 0.501107
+
+
+--- time for learning : 35960.50776052475 seconds ---
+step 380, training accuracy 0.5729
+test accuracy 0.50137
+step 381, training accuracy 0.57314
+test accuracy 0.50129
+step 382, training accuracy 0.57331
+test accuracy 0.501497
+step 383, training accuracy 0.5735
+test accuracy 0.50157
+step 384, training accuracy 0.57421
+test accuracy 0.50169
+step 385, training accuracy 0.574
+test accuracy 0.501793
+step 386, training accuracy 0.57403
+test accuracy 0.501613
+step 387, training accuracy 0.57412
+test accuracy 0.501773
+step 388, training accuracy 0.57451
+test accuracy 0.501743
+step 389, training accuracy 0.575
+test accuracy 0.501713
+step 390, training accuracy 0.57515
+test accuracy 0.501827
+step 391, training accuracy 0.5754
+test accuracy 0.50169
+step 392, training accuracy 0.57566
+test accuracy 0.50167
+step 393, training accuracy 0.57585
+test accuracy 0.50194
+step 394, training accuracy 0.57624
+test accuracy 0.501847
+step 395, training accuracy 0.57627
+test accuracy 0.501647
+step 396, training accuracy 0.57586
+test accuracy 0.501357
+step 397, training accuracy 0.57616
+test accuracy 0.5012
+step 398, training accuracy 0.57677
+test accuracy 0.50081
+step 399, training accuracy 0.57693
+test accuracy 0.50095
+
+
+--- time for learning : 36477.95486474037 seconds ---
+step 400, training accuracy 0.57724
+test accuracy 0.501207
+step 401, training accuracy 0.57757
+test accuracy 0.5013
+step 402, training accuracy 0.57769
+test accuracy 0.501117
+step 403, training accuracy 0.57782
+test accuracy 0.50098
+step 404, training accuracy 0.57825
+test accuracy 0.500797
+step 405, training accuracy 0.57828
+test accuracy 0.500537
+step 406, training accuracy 0.57873
+test accuracy 0.500437
+step 407, training accuracy 0.57951
+test accuracy 0.50041
+step 408, training accuracy 0.57993
+test accuracy 0.500273
+step 409, training accuracy 0.58007
+test accuracy 0.50016
+step 410, training accuracy 0.58078
+test accuracy 0.500083
+step 411, training accuracy 0.5813
+test accuracy 0.499983
+step 412, training accuracy 0.58173
+test accuracy 0.499993
+step 413, training accuracy 0.5818
+test accuracy 0.499787
+step 414, training accuracy 0.58191
+test accuracy 0.499977
+step 415, training accuracy 0.5822
+test accuracy 0.499677
+step 416, training accuracy 0.58237
+test accuracy 0.49979
+step 417, training accuracy 0.58291
+test accuracy 0.499763
+step 418, training accuracy 0.5834
+test accuracy 0.49994
+step 419, training accuracy 0.58382
+test accuracy 0.500163
+
+
+--- time for learning : 36994.38887000084 seconds ---
+step 420, training accuracy 0.58413
+test accuracy 0.5002
+step 421, training accuracy 0.58486
+test accuracy 0.500337
+step 422, training accuracy 0.58493
+test accuracy 0.50036
+step 423, training accuracy 0.58496
+test accuracy 0.50051
+step 424, training accuracy 0.58551
+test accuracy 0.50044
+step 425, training accuracy 0.58557
+test accuracy 0.50061
+step 426, training accuracy 0.58579
+test accuracy 0.50028
+step 427, training accuracy 0.58609
+test accuracy 0.500173
+step 428, training accuracy 0.58644
+test accuracy 0.50043
+step 429, training accuracy 0.58675
+test accuracy 0.50034
+step 430, training accuracy 0.58688
+test accuracy 0.500203
+step 431, training accuracy 0.58723
+test accuracy 0.50003
+step 432, training accuracy 0.58751
+test accuracy 0.499677
+step 433, training accuracy 0.58749
+test accuracy 0.499803
+step 434, training accuracy 0.58693
+test accuracy 0.49955
+step 435, training accuracy 0.58716
+test accuracy 0.49959
+step 436, training accuracy 0.58778
+test accuracy 0.499513
+step 437, training accuracy 0.58793
+test accuracy 0.499727
+step 438, training accuracy 0.58823
+test accuracy 0.499583
+step 439, training accuracy 0.5885
+test accuracy 0.49981
+
+
+--- time for learning : 37510.33455467224 seconds ---
+step 440, training accuracy 0.58875
+test accuracy 0.499877
+step 441, training accuracy 0.58907
+test accuracy 0.499883
+step 442, training accuracy 0.58911
+test accuracy 0.500037
+step 443, training accuracy 0.58939
+test accuracy 0.499927
+step 444, training accuracy 0.58945
+test accuracy 0.499967
+step 445, training accuracy 0.58966
+test accuracy 0.500127
+step 446, training accuracy 0.58958
+test accuracy 0.500137
+step 447, training accuracy 0.58957
+test accuracy 0.500367
+step 448, training accuracy 0.58952
+test accuracy 0.50058
+step 449, training accuracy 0.58957
+test accuracy 0.500603
+step 450, training accuracy 0.58981
+test accuracy 0.500637
+step 451, training accuracy 0.59
+test accuracy 0.500547
+step 452, training accuracy 0.59024
+test accuracy 0.500667
+step 453, training accuracy 0.58999
+test accuracy 0.500797
+step 454, training accuracy 0.59045
+test accuracy 0.500947
+step 455, training accuracy 0.59066
+test accuracy 0.50081
+step 456, training accuracy 0.59059
+test accuracy 0.500743
+step 457, training accuracy 0.59058
+test accuracy 0.50078
+step 458, training accuracy 0.59074
+test accuracy 0.50066
+step 459, training accuracy 0.59132
+test accuracy 0.500613
+
+
+--- time for learning : 38026.04079079628 seconds ---
+step 460, training accuracy 0.59146
+test accuracy 0.500673
+step 461, training accuracy 0.59142
+test accuracy 0.500603
+step 462, training accuracy 0.5917
+test accuracy 0.500507
+step 463, training accuracy 0.5925
+test accuracy 0.500673
+step 464, training accuracy 0.59233
+test accuracy 0.5007
+step 465, training accuracy 0.59254
+test accuracy 0.500523
+step 466, training accuracy 0.59262
+test accuracy 0.500133
+step 467, training accuracy 0.59294
+test accuracy 0.499987
+step 468, training accuracy 0.59322
+test accuracy 0.500143
+step 469, training accuracy 0.59375
+test accuracy 0.500127
+step 470, training accuracy 0.59384
+test accuracy 0.500153
+step 471, training accuracy 0.59394
+test accuracy 0.50016
+step 472, training accuracy 0.59429
+test accuracy 0.500217
+step 473, training accuracy 0.59488
+test accuracy 0.500303
+step 474, training accuracy 0.59493
+test accuracy 0.500287
+step 475, training accuracy 0.59471
+test accuracy 0.50037
+step 476, training accuracy 0.59499
+test accuracy 0.50041
+step 477, training accuracy 0.59516
+test accuracy 0.50056
+step 478, training accuracy 0.59545
+test accuracy 0.50051
+step 479, training accuracy 0.59562
+test accuracy 0.500757
+
+
+--- time for learning : 38541.53414273262 seconds ---
+step 480, training accuracy 0.59586
+test accuracy 0.500923
+step 481, training accuracy 0.59629
+test accuracy 0.500957
+step 482, training accuracy 0.59641
+test accuracy 0.50089
+step 483, training accuracy 0.59679
+test accuracy 0.500947
+step 484, training accuracy 0.59729
+test accuracy 0.501153
+step 485, training accuracy 0.59746
+test accuracy 0.50102
+step 486, training accuracy 0.59786
+test accuracy 0.500923
+step 487, training accuracy 0.59852
+test accuracy 0.50088
+step 488, training accuracy 0.59874
+test accuracy 0.5008
+step 489, training accuracy 0.59857
+test accuracy 0.50087
+step 490, training accuracy 0.59872
+test accuracy 0.500773
+step 491, training accuracy 0.5991
+test accuracy 0.500697
+step 492, training accuracy 0.59921
+test accuracy 0.500663
+step 493, training accuracy 0.59944
+test accuracy 0.50082
+step 494, training accuracy 0.59963
+test accuracy 0.500697
+step 495, training accuracy 0.59987
+test accuracy 0.500513
+step 496, training accuracy 0.59986
+test accuracy 0.500573
+step 497, training accuracy 0.60019
+test accuracy 0.5005
+step 498, training accuracy 0.60078
+test accuracy 0.500587
+step 499, training accuracy 0.60108
+test accuracy 0.500637
+
+
+--- time for learning : 39057.340613126755 seconds ---
+step 500, training accuracy 0.60132
+test accuracy 0.500783
+step 501, training accuracy 0.6014
+test accuracy 0.5007
+step 502, training accuracy 0.60169
+test accuracy 0.50068
+step 503, training accuracy 0.60161
+test accuracy 0.500517
+step 504, training accuracy 0.60164
+test accuracy 0.500557
+step 505, training accuracy 0.60128
+test accuracy 0.500657
+step 506, training accuracy 0.60108
+test accuracy 0.50072
+step 507, training accuracy 0.60105
+test accuracy 0.500843
+step 508, training accuracy 0.60131
+test accuracy 0.50077
+step 509, training accuracy 0.60172
+test accuracy 0.500643
+step 510, training accuracy 0.60176
+test accuracy 0.500723
+step 511, training accuracy 0.60212
+test accuracy 0.500967
+step 512, training accuracy 0.60251
+test accuracy 0.500903
+step 513, training accuracy 0.60223
+test accuracy 0.500803
+step 514, training accuracy 0.60234
+test accuracy 0.501087
+step 515, training accuracy 0.60238
+test accuracy 0.500837
+step 516, training accuracy 0.60247
+test accuracy 0.500817
+step 517, training accuracy 0.60268
+test accuracy 0.500837
+step 518, training accuracy 0.60283
+test accuracy 0.500783
+step 519, training accuracy 0.60266
+test accuracy 0.5005
+
+
+--- time for learning : 39573.118220090866 seconds ---
+step 520, training accuracy 0.60273
+test accuracy 0.500517
+step 521, training accuracy 0.60255
+test accuracy 0.500493
+step 522, training accuracy 0.60251
+test accuracy 0.500533
+step 523, training accuracy 0.60283
+test accuracy 0.50035
+step 524, training accuracy 0.60264
+test accuracy 0.500317
+step 525, training accuracy 0.60255
+test accuracy 0.500203
+step 526, training accuracy 0.60258
+test accuracy 0.500213
+step 527, training accuracy 0.60285
+test accuracy 0.500517
+step 528, training accuracy 0.60297
+test accuracy 0.500343
+step 529, training accuracy 0.60278
+test accuracy 0.50029
+step 530, training accuracy 0.60262
+test accuracy 0.50028
+step 531, training accuracy 0.60285
+test accuracy 0.50038
+step 532, training accuracy 0.60271
+test accuracy 0.500477
+step 533, training accuracy 0.60297
+test accuracy 0.500437
+step 534, training accuracy 0.60308
+test accuracy 0.50039
+step 535, training accuracy 0.60321
+test accuracy 0.50032
+step 536, training accuracy 0.60313
+test accuracy 0.500373
+step 537, training accuracy 0.60332
+test accuracy 0.500597
+step 538, training accuracy 0.60298
+test accuracy 0.50075
+step 539, training accuracy 0.60269
+test accuracy 0.50081
+
+
+--- time for learning : 40088.18901395798 seconds ---
+step 540, training accuracy 0.60301
+test accuracy 0.500813
+step 541, training accuracy 0.60311
+test accuracy 0.50081
+step 542, training accuracy 0.60339
+test accuracy 0.500713
+step 543, training accuracy 0.60351
+test accuracy 0.500673
+step 544, training accuracy 0.60354
+test accuracy 0.500733
+step 545, training accuracy 0.60373
+test accuracy 0.500973
+step 546, training accuracy 0.60412
+test accuracy 0.501053
+step 547, training accuracy 0.60393
+test accuracy 0.50089
+step 548, training accuracy 0.6044
+test accuracy 0.500803
+step 549, training accuracy 0.60429
+test accuracy 0.500683
+step 550, training accuracy 0.60438
+test accuracy 0.5004
+step 551, training accuracy 0.60458
+test accuracy 0.50044
+step 552, training accuracy 0.60477
+test accuracy 0.50053
+step 553, training accuracy 0.60518
+test accuracy 0.50066
+step 554, training accuracy 0.60517
+test accuracy 0.50059
+step 555, training accuracy 0.60494
+test accuracy 0.50045
+step 556, training accuracy 0.60486
+test accuracy 0.500413
+step 557, training accuracy 0.60488
+test accuracy 0.500347
+step 558, training accuracy 0.60536
+test accuracy 0.500027
+step 559, training accuracy 0.60569
+test accuracy 0.499823
+
+
+--- time for learning : 40606.08230495453 seconds ---
+step 560, training accuracy 0.60551
+test accuracy 0.499783
+step 561, training accuracy 0.60612
+test accuracy 0.499713
+step 562, training accuracy 0.60576
+test accuracy 0.49943
+step 563, training accuracy 0.60591
+test accuracy 0.49961
+step 564, training accuracy 0.60631
+test accuracy 0.49965
+step 565, training accuracy 0.60657
+test accuracy 0.499723
+step 566, training accuracy 0.60664
+test accuracy 0.49981
+step 567, training accuracy 0.60695
+test accuracy 0.499897
+step 568, training accuracy 0.60708
+test accuracy 0.499603
+step 569, training accuracy 0.60685
+test accuracy 0.49968
+step 570, training accuracy 0.60691
+test accuracy 0.499827
+step 571, training accuracy 0.60701
+test accuracy 0.499937
+step 572, training accuracy 0.6071
+test accuracy 0.49987
+step 573, training accuracy 0.6072
+test accuracy 0.499813
+step 574, training accuracy 0.60755
+test accuracy 0.499793
+step 575, training accuracy 0.60766
+test accuracy 0.49983
+step 576, training accuracy 0.60752
+test accuracy 0.49982
+step 577, training accuracy 0.60772
+test accuracy 0.49969
+step 578, training accuracy 0.60781
+test accuracy 0.49946
+step 579, training accuracy 0.60782
+test accuracy 0.499527
+
+
+--- time for learning : 41123.61132979393 seconds ---
+step 580, training accuracy 0.60787
+test accuracy 0.49942
+step 581, training accuracy 0.60807
+test accuracy 0.499367
+step 582, training accuracy 0.60807
+test accuracy 0.4994
+step 583, training accuracy 0.60793
+test accuracy 0.49924
+step 584, training accuracy 0.60783
+test accuracy 0.499397
+step 585, training accuracy 0.60779
+test accuracy 0.499253
+step 586, training accuracy 0.60777
+test accuracy 0.499377
+step 587, training accuracy 0.60797
+test accuracy 0.499493
+step 588, training accuracy 0.60818
+test accuracy 0.499473
+step 589, training accuracy 0.60845
+test accuracy 0.499677
+step 590, training accuracy 0.60831
+test accuracy 0.499733
+step 591, training accuracy 0.60845
+test accuracy 0.499643
+step 592, training accuracy 0.60846
+test accuracy 0.499637
+step 593, training accuracy 0.60873
+test accuracy 0.499597
+step 594, training accuracy 0.60856
+test accuracy 0.4996
+step 595, training accuracy 0.60814
+test accuracy 0.49953
+step 596, training accuracy 0.60807
+test accuracy 0.49965
+step 597, training accuracy 0.60816
+test accuracy 0.499817
+step 598, training accuracy 0.60855
+test accuracy 0.49967
+step 599, training accuracy 0.60864
+test accuracy 0.499543
+
+
+--- time for learning : 41639.787821769714 seconds ---
+step 600, training accuracy 0.60849
+test accuracy 0.499483
+step 601, training accuracy 0.60824
+test accuracy 0.499457
+step 602, training accuracy 0.60819
+test accuracy 0.499487
+step 603, training accuracy 0.6083
+test accuracy 0.499637
+step 604, training accuracy 0.60862
+test accuracy 0.499797
+step 605, training accuracy 0.60918
+test accuracy 0.4998
+step 606, training accuracy 0.6093
+test accuracy 0.499833
+step 607, training accuracy 0.60934
+test accuracy 0.499833
+step 608, training accuracy 0.60978
+test accuracy 0.499937
+step 609, training accuracy 0.60977
+test accuracy 0.49988
+step 610, training accuracy 0.60983
+test accuracy 0.499943
+step 611, training accuracy 0.60986
+test accuracy 0.49987
+step 612, training accuracy 0.60992
+test accuracy 0.499903
+step 613, training accuracy 0.61035
+test accuracy 0.49987
+step 614, training accuracy 0.61004
+test accuracy 0.499973
+step 615, training accuracy 0.61023
+test accuracy 0.49988
+step 616, training accuracy 0.61017
+test accuracy 0.500037
+step 617, training accuracy 0.60999
+test accuracy 0.500057
+step 618, training accuracy 0.6099
+test accuracy 0.500107
+step 619, training accuracy 0.61024
+test accuracy 0.500413
+
+
+--- time for learning : 42155.80002331734 seconds ---
+step 620, training accuracy 0.61054
+test accuracy 0.500363
+step 621, training accuracy 0.61082
+test accuracy 0.500387
+step 622, training accuracy 0.61055
+test accuracy 0.50046
+step 623, training accuracy 0.61074
+test accuracy 0.50033
+step 624, training accuracy 0.6107
+test accuracy 0.50032
+step 625, training accuracy 0.61076
+test accuracy 0.500443
+step 626, training accuracy 0.6108
+test accuracy 0.500207
+step 627, training accuracy 0.61083
+test accuracy 0.500063
+step 628, training accuracy 0.61094
+test accuracy 0.50009
+step 629, training accuracy 0.61062
+test accuracy 0.500017
+step 630, training accuracy 0.61053
+test accuracy 0.500023
+step 631, training accuracy 0.61065
+test accuracy 0.499847
+step 632, training accuracy 0.61083
+test accuracy 0.49989
+step 633, training accuracy 0.61107
+test accuracy 0.49992
+step 634, training accuracy 0.61106
+test accuracy 0.499877
+step 635, training accuracy 0.61098
+test accuracy 0.499787
+step 636, training accuracy 0.6112
+test accuracy 0.49974
+step 637, training accuracy 0.61176
+test accuracy 0.49961
+step 638, training accuracy 0.61183
+test accuracy 0.4998
+step 639, training accuracy 0.61171
+test accuracy 0.49968
+
+
+--- time for learning : 42671.726210832596 seconds ---
+step 640, training accuracy 0.61156
+test accuracy 0.49958
+step 641, training accuracy 0.61142
+test accuracy 0.49961
+step 642, training accuracy 0.61139
+test accuracy 0.49963
+step 643, training accuracy 0.61147
+test accuracy 0.499657
+step 644, training accuracy 0.61171
+test accuracy 0.4998
+step 645, training accuracy 0.61157
+test accuracy 0.49986
+step 646, training accuracy 0.61116
+test accuracy 0.499713
+step 647, training accuracy 0.61131
+test accuracy 0.499847
+step 648, training accuracy 0.6115
+test accuracy 0.499823
+step 649, training accuracy 0.61144
+test accuracy 0.49967
+step 650, training accuracy 0.61137
+test accuracy 0.499853
+step 651, training accuracy 0.61159
+test accuracy 0.499913
+step 652, training accuracy 0.61147
+test accuracy 0.500023
+step 653, training accuracy 0.61129
+test accuracy 0.500017
+step 654, training accuracy 0.61114
+test accuracy 0.50013
+step 655, training accuracy 0.61155
+test accuracy 0.50018
+step 656, training accuracy 0.61145
+test accuracy 0.50037
+step 657, training accuracy 0.61123
+test accuracy 0.500243
+step 658, training accuracy 0.61117
+test accuracy 0.500273
+step 659, training accuracy 0.6115
+test accuracy 0.50021
+
+
+--- time for learning : 43187.555334329605 seconds ---
+step 660, training accuracy 0.61167
+test accuracy 0.500057
+step 661, training accuracy 0.61157
+test accuracy 0.499847
+step 662, training accuracy 0.61186
+test accuracy 0.499927
+step 663, training accuracy 0.61202
+test accuracy 0.4998
+step 664, training accuracy 0.61213
+test accuracy 0.499943
+step 665, training accuracy 0.6123
+test accuracy 0.499853
+step 666, training accuracy 0.61249
+test accuracy 0.499637
+step 667, training accuracy 0.61243
+test accuracy 0.499813
+step 668, training accuracy 0.6123
+test accuracy 0.499833
+step 669, training accuracy 0.61239
+test accuracy 0.49985
+step 670, training accuracy 0.61226
+test accuracy 0.499927
+step 671, training accuracy 0.61256
+test accuracy 0.50012
+step 672, training accuracy 0.61255
+test accuracy 0.500127
+step 673, training accuracy 0.61264
+test accuracy 0.499953
+step 674, training accuracy 0.61252
+test accuracy 0.49993
+step 675, training accuracy 0.61247
+test accuracy 0.5001
+step 676, training accuracy 0.61269
+test accuracy 0.500087
+step 677, training accuracy 0.61248
+test accuracy 0.49988
+step 678, training accuracy 0.61262
+test accuracy 0.499877
+step 679, training accuracy 0.61278
+test accuracy 0.499827
+
+
+--- time for learning : 43703.547937870026 seconds ---
+step 680, training accuracy 0.61245
+test accuracy 0.499803
+step 681, training accuracy 0.61224
+test accuracy 0.49985
+step 682, training accuracy 0.61232
+test accuracy 0.500107
+step 683, training accuracy 0.61203
+test accuracy 0.50003
+step 684, training accuracy 0.61188
+test accuracy 0.499863
+step 685, training accuracy 0.61167
+test accuracy 0.499733
+step 686, training accuracy 0.61146
+test accuracy 0.49974
+step 687, training accuracy 0.61165
+test accuracy 0.499777
+step 688, training accuracy 0.61164
+test accuracy 0.49993
+step 689, training accuracy 0.61174
+test accuracy 0.50018
+step 690, training accuracy 0.61162
+test accuracy 0.500067
+step 691, training accuracy 0.61132
+test accuracy 0.499987
+step 692, training accuracy 0.61156
+test accuracy 0.499987
+step 693, training accuracy 0.61173
+test accuracy 0.499763
+step 694, training accuracy 0.61154
+test accuracy 0.499703
+step 695, training accuracy 0.61142
+test accuracy 0.49965
+step 696, training accuracy 0.61138
+test accuracy 0.49972
+step 697, training accuracy 0.61134
+test accuracy 0.499743
+step 698, training accuracy 0.61154
+test accuracy 0.499583
+step 699, training accuracy 0.61199
+test accuracy 0.499453
+
+
+--- time for learning : 44220.47415447235 seconds ---
+step 700, training accuracy 0.61198
+test accuracy 0.49945
+step 701, training accuracy 0.61191
+test accuracy 0.49951
+step 702, training accuracy 0.61202
+test accuracy 0.499487
+step 703, training accuracy 0.61192
+test accuracy 0.499673
+step 704, training accuracy 0.61206
+test accuracy 0.499597
+step 705, training accuracy 0.61171
+test accuracy 0.499513
+step 706, training accuracy 0.61194
+test accuracy 0.49938
+step 707, training accuracy 0.61209
+test accuracy 0.499327
+step 708, training accuracy 0.61227
+test accuracy 0.49913
+step 709, training accuracy 0.61214
+test accuracy 0.49918
+step 710, training accuracy 0.6121
+test accuracy 0.49918
+step 711, training accuracy 0.61182
+test accuracy 0.49907
+step 712, training accuracy 0.61153
+test accuracy 0.498963
+step 713, training accuracy 0.61195
+test accuracy 0.499053
+step 714, training accuracy 0.61228
+test accuracy 0.499217
+step 715, training accuracy 0.61207
+test accuracy 0.49905
+step 716, training accuracy 0.61218
+test accuracy 0.499067
+step 717, training accuracy 0.61242
+test accuracy 0.499303
+step 718, training accuracy 0.61264
+test accuracy 0.499487
+step 719, training accuracy 0.61266
+test accuracy 0.499693
+
+
+--- time for learning : 44736.35268354416 seconds ---
+step 720, training accuracy 0.61266
+test accuracy 0.49976
+step 721, training accuracy 0.61276
+test accuracy 0.49994
+step 722, training accuracy 0.61275
+test accuracy 0.499887
+step 723, training accuracy 0.61269
+test accuracy 0.499857
+step 724, training accuracy 0.61299
+test accuracy 0.499737
+step 725, training accuracy 0.61301
+test accuracy 0.4999
+step 726, training accuracy 0.61324
+test accuracy 0.499917
+step 727, training accuracy 0.61309
+test accuracy 0.500157
+step 728, training accuracy 0.613
+test accuracy 0.50014
+step 729, training accuracy 0.61299
+test accuracy 0.50024
+step 730, training accuracy 0.61286
+test accuracy 0.500433
+step 731, training accuracy 0.61324
+test accuracy 0.500457
+step 732, training accuracy 0.61304
+test accuracy 0.500193
+step 733, training accuracy 0.6129
+test accuracy 0.500303
+step 734, training accuracy 0.61262
+test accuracy 0.50025
+step 735, training accuracy 0.61258
+test accuracy 0.500377
+step 736, training accuracy 0.6132
+test accuracy 0.500587
+step 737, training accuracy 0.61237
+test accuracy 0.500517
+step 738, training accuracy 0.61248
+test accuracy 0.500223
+step 739, training accuracy 0.61297
+test accuracy 0.50017
+
+
+--- time for learning : 45252.26536202431 seconds ---
+step 740, training accuracy 0.61277
+test accuracy 0.50027
+step 741, training accuracy 0.61198
+test accuracy 0.500357
+step 742, training accuracy 0.61271
+test accuracy 0.499993
+step 743, training accuracy 0.61342
+test accuracy 0.499923
+step 744, training accuracy 0.61187
+test accuracy 0.500073
+step 745, training accuracy 0.61282
+test accuracy 0.499967
+step 746, training accuracy 0.61292
+test accuracy 0.500203
+step 747, training accuracy 0.61165
+test accuracy 0.500043
+step 748, training accuracy 0.61277
+test accuracy 0.500357
+step 749, training accuracy 0.61389
+test accuracy 0.500347
+step 750, training accuracy 0.61222
+test accuracy 0.500123
+step 751, training accuracy 0.61229
+test accuracy 0.50011
+step 752, training accuracy 0.61285
+test accuracy 0.500147
+step 753, training accuracy 0.6125
+test accuracy 0.500573
+step 754, training accuracy 0.61249
+test accuracy 0.499917
+step 755, training accuracy 0.6113
+test accuracy 0.500027
+step 756, training accuracy 0.61196
+test accuracy 0.500447
+step 757, training accuracy 0.61132
+test accuracy 0.49982
+step 758, training accuracy 0.61089
+test accuracy 0.499933
+step 759, training accuracy 0.61062
+test accuracy 0.500057
+
+
+--- time for learning : 45767.31985640526 seconds ---
+step 760, training accuracy 0.61056
+test accuracy 0.50034
+step 761, training accuracy 0.6102
+test accuracy 0.500397
+step 762, training accuracy 0.60995
+test accuracy 0.4999
+step 763, training accuracy 0.60979
+test accuracy 0.500057
+step 764, training accuracy 0.6096
+test accuracy 0.501077
+step 765, training accuracy 0.61029
+test accuracy 0.50055
+step 766, training accuracy 0.61007
+test accuracy 0.49995
+step 767, training accuracy 0.60987
+test accuracy 0.50029
+step 768, training accuracy 0.61012
+test accuracy 0.50048
+step 769, training accuracy 0.60985
+test accuracy 0.50008
+step 770, training accuracy 0.60928
+test accuracy 0.499937
+step 771, training accuracy 0.60971
+test accuracy 0.50021
+step 772, training accuracy 0.60971
+test accuracy 0.499233
+step 773, training accuracy 0.60868
+test accuracy 0.499423
+step 774, training accuracy 0.60932
+test accuracy 0.500767
+step 775, training accuracy 0.60977
+test accuracy 0.4996
+step 776, training accuracy 0.60841
+test accuracy 0.49963
+step 777, training accuracy 0.60902
+test accuracy 0.500317
+step 778, training accuracy 0.60987
+test accuracy 0.500027
+step 779, training accuracy 0.60799
+test accuracy 0.499207
+
+
+--- time for learning : 46282.024532318115 seconds ---
+step 780, training accuracy 0.60884
+test accuracy 0.50024
+step 781, training accuracy 0.60836
+test accuracy 0.499867
+step 782, training accuracy 0.60784
+test accuracy 0.49954
+step 783, training accuracy 0.60903
+test accuracy 0.499903
+step 784, training accuracy 0.60942
+test accuracy 0.50015
+step 785, training accuracy 0.60886
+test accuracy 0.499747
+step 786, training accuracy 0.60867
+test accuracy 0.499457
+step 787, training accuracy 0.60904
+test accuracy 0.50071
+step 788, training accuracy 0.60823
+test accuracy 0.500057
+step 789, training accuracy 0.60797
+test accuracy 0.499493
+step 790, training accuracy 0.60781
+test accuracy 0.50035
+step 791, training accuracy 0.60838
+test accuracy 0.500117
+step 792, training accuracy 0.60714
+test accuracy 0.49986
+step 793, training accuracy 0.60886
+test accuracy 0.500033
+step 794, training accuracy 0.60961
+test accuracy 0.500053
+step 795, training accuracy 0.60745
+test accuracy 0.499697
+step 796, training accuracy 0.60868
+test accuracy 0.500067
+step 797, training accuracy 0.60709
+test accuracy 0.4993
+step 798, training accuracy 0.60779
+test accuracy 0.499867
+step 799, training accuracy 0.60799
+test accuracy 0.500313
+
+
+--- time for learning : 46797.81165409088 seconds ---
+step 800, training accuracy 0.60776
+test accuracy 0.499603
+step 801, training accuracy 0.60674
+test accuracy 0.50007
+step 802, training accuracy 0.60842
+test accuracy 0.500283
+step 803, training accuracy 0.60863
